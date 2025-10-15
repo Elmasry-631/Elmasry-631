@@ -18,17 +18,14 @@
 
 ## 💼 Professional Experience
 
-### 🟣 **Odoo Implementor** — Germaniatek *(May 2025 – Present)*
+### 🟣 **Odoo Implementor** 
 - Implemented and configured Odoo ERP systems based on client requirements  
 - Improved workflow efficiency through custom module configuration and automation  
 
-### 🟢 **Odoo Functional Consultant** — Royal Star For Plastic Industry *(Jan 2025 – Apr 2025)*
+### 🟢 **Odoo Functional Consultant** 
 - Analyzed business processes and implemented tailored Odoo solutions  
 - Configured CRM, Inventory, Accounting, and E-commerce modules  
 - Authored detailed documentation and trained users for better adoption  
-
-### 🔵 **Odoo Implementor** — Woledge *(Jan 2022 – Present)*  
-- Supported ongoing Odoo implementations and system enhancements  
 
 ---
 
