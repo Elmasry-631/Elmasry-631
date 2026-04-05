@@ -356,7 +356,7 @@ class IbrahimElmasry:
 </td>
 <td align="center">
 
-![Odoo](https://img.shields.io/badge/Odoo_15|16|17-Expert-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo_17|18|19-Expert-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-Advanced-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Intermediate-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
