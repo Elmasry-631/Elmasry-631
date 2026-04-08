@@ -325,9 +325,13 @@ class IbrahimElmasry:
 | 20 | Trie Oxygen (Dubai) | Home & Living | 🇦🇪 | 46 | Innovadigits | Technology | 🇪🇬 |
 | 21 | Soltan Elabtekar | Technology | 🇪🇬 | 47 | Diamond Supply | Trading | 🇸🇦 |
 | 22 | Traid Paint | Industrial | 🇪🇬 | 48 | Mid Core Farma | Pharmaceuticals | 🇪🇬 |
-| 23 | Magawish Petroleum Company | Petroleum | 🇪🇬 | 49 | - | - | - |
-| 24 | - | - | - | 50 | - | - | - |
+| 23 | Magawish Petroleum Company | Petroleum | 🇪🇬 | 49 | Additional clients | Multiple industries | 🌍 |
+| 24 | Ongoing implementations | Various sectors | MENA | 50 | New engagements | In progress | 🚀 |
 
+</div>
+
+<div align="center">
+  <sub><i>Portfolio is continuously expanding with new successful implementations across the MENA region.</i></sub>
 </div>
 
 ---
