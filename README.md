@@ -91,7 +91,7 @@ class IbrahimElmasry:
 | **Egypt** | **Saudi Arabia** | **UAE** | **Qatar** | **Jordan** | **Iraq** |
 |:------------:|:-----------:|:-------------------:|:------------:|:---------:|:-------:|
 | Primary Base | Major Market | Dubai & RAK | Doha Region | Amman | Baghdad |
-| <img src="https://img.shields.io/badge/17-Clients-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/18-Clients-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/4-Clients-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/9-Clients-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/1-Client-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/2-Clients-blue?style=flat-square"/> |
+| <img src="https://img.shields.io/badge/18-Clients-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/18-Clients-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/4-Clients-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/9-Clients-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/1-Client-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/2-Clients-blue?style=flat-square"/> |
 
 </div>
 
@@ -170,10 +170,11 @@ class IbrahimElmasry:
 - Pure Supplies
 - Diamond Supply
 - Al-Tawreed Al-Masi (Diamond Supply)
+- Panda Retail
 
 </sup>
 
-<img src="https://img.shields.io/badge/8-Projects-F39C12?style=flat-square" alt="Trading"/>
+<img src="https://img.shields.io/badge/9-Projects-F39C12?style=flat-square" alt="Trading"/>
 
 </td>
 </tr>
@@ -347,7 +348,7 @@ class IbrahimElmasry:
 <!-- Complete Client Portfolio -->
 <div align="center">
   
-### <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="35" alt="Portfolio"/> Complete Client Portfolio (51)
+### <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="35" alt="Portfolio"/> Complete Client Portfolio (52)
 
 </div>
 
@@ -380,7 +381,7 @@ class IbrahimElmasry:
 | 23 | Magawish Petroleum Company | Petroleum & Industrial | EG | 49 | Sarwa Insurance | Insurance | EG |
 | 24 | Haitara | Construction & Contracting | QA | 50 | katra | Manufacturing | SA |
 | 25 | Alaz for Food Industry | Petroleum & Industrial | EG | 51 | Al-Tawreed Al-Masi | Trading & Retail | SA |
-| 26 | Izdehar | Petroleum & Industrial | SA | | | | |
+| 26 | Izdehar | Petroleum & Industrial | SA | 52 | Panda Retail | Trading & Retail | EG |
 
 </div>
 
