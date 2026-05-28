@@ -1,12 +1,12 @@
 <div align="center">
   
-<!-- 🎯 Dynamic Header -->
+<!-- Dynamic Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F23,50:1A1B3D,100:2D1B4E&height=140&section=header&text=Ibrahim%20Elmasry&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Senior%20Odoo%20Developer%20%7C%20ERP%20Architect%20%7C%20Business%20Automation%20Expert&descAlignY=52&descSize=16" alt="Header"/>
 
-<!-- 👋 Greeting Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=🚀+Transforming+Businesses+Through+ERP+Solutions;💼+50%2B+Successful+Implementations+Across+Industries;🌍+Serving+Clients+in+Egypt+%7C+UAE+%7C+Saudi+Arabia+%7C+Qatar;⚡+Automating+Workflows+%7C+Saving+Time+%7C+Driving+Growth" alt="Typing SVG"/>
+<!-- Greeting Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Transforming+Businesses+Through+ERP+Solutions;50%2B+Successful+Implementations+Across+Industries;Serving+Clients+in+Egypt+%7C+UAE+%7C+Saudi+Arabia+%7C+Qatar+%7C+Jordan+%7C+Iraq;Automating+Workflows+%7C+Saving+Time+%7C+Driving+Growth" alt="Typing SVG"/>
 
-<!-- 🔗 Social Links -->
+<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-mahmoud-ibrahim" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?logo=linkedin-white&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
@@ -19,26 +19,26 @@
   </a>
 </p>
 
-<!-- 👁️ Profile Views -->
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=Elmasry-631&label=Profile%20Views&color=00D9FF&style=for-the-badge&logo=eye" alt="Profile Views"/>
 
 </div>
 
 ---
 
-<!-- 🏆 Achievement Banner -->
+<!-- Achievement Banner -->
 <div align="center">
   
 <img src="https://img.shields.io/badge/50%2B_Projects-Delivered-success?style=for-the-badge&logo=check-circle&logoColor=white&labelColor=1E5128" alt="Projects"/>
-<img src="https://img.shields.io/badge/4_Countries-Egypt_UAE_Saudi_Qatar-blue?style=for-the-badge&logo=globe&logoColor=white&labelColor=0A2647" alt="Countries"/>
-<img src="https://img.shields.io/badge/15%2B_Industries-Served-purple?style=for-the-badge&logo=building&logoColor=white&labelColor=4A0E4E" alt="Industries"/>
+<img src="https://img.shields.io/badge/6_Countries-Egypt_UAE_Saudi_Qatar_Jordan_Iraq-blue?style=for-the-badge&logo=globe&logoColor=white&labelColor=0A2647" alt="Countries"/>
+<img src="https://img.shields.io/badge/16_Industries-Served-purple?style=for-the-badge&logo=building&logoColor=white&labelColor=4A0E4E" alt="Industries"/>
 <img src="https://img.shields.io/badge/40%25-Average_Time_Saved-00D9FF?style=for-the-badge&logo=clock&logoColor=white&labelColor=003C58" alt="Time Saved"/>
 
 </div>
 
 ---
 
-<!-- 🧑‍💻 About Section -->
+<!-- About Section -->
 <div align="center">
   
 ### <img src="https://media.giphy.com/media/VdoIFLtbMCQWsFVZw5/giphy.gif" width="35" alt="Developer"/> <samp>def <span style="color:#00D9FF;">about_me</span>():</samp>
@@ -58,28 +58,28 @@ class IbrahimElmasry:
         self.title = "Senior Odoo Developer | ERP Architect"
         self.experience_years = "5+ Years"
         self.projects_delivered = "50+"
-        self.countries_served = ["Egypt 🇪🇬", "UAE 🇦🇪", "Saudi Arabia 🇸🇦", "Qatar 🇶🇦"]
+        self.countries_served = ["Egypt", "UAE", "Saudi Arabia", "Qatar", "Jordan", "Iraq"]
         
     def get_expertise(self):
         return {
-            "🎯 Core": ["Odoo 15/16/17", "Python", "Django", "PostgreSQL"],
-            "🔧 Development": ["Custom Modules", "API Integration", "Reports", "Workflows"],
-            "📊 Business": ["ERP Implementation", "Process Automation", "Data Migration"],
-            "🌍 Regions": ["MENA Market Expert", "Multi-currency", "Multi-language"]
+            "Core": ["Odoo 15/16/17", "Python", "Django", "PostgreSQL"],
+            "Development": ["Custom Modules", "API Integration", "Reports", "Workflows"],
+            "Business": ["ERP Implementation", "Process Automation", "Data Migration"],
+            "Regions": ["MENA Market Expert", "Multi-currency", "Multi-language"]
         }
     
     def get_achievements(self):
         return [
             "50+ successful ERP implementations",
-            "15+ industries served",
-            "Clients across 4 countries",
+            "16 industries served",
+            "Clients across 6 countries",
             "40%+ average operational time saved"
         ]
 ```
 
 ---
 
-<!-- 🌍 Geographic Reach -->
+<!-- Geographic Reach -->
 <div align="center">
   
 ### <img src="https://media.giphy.com/media/l0HlNWNuGxWJL9HyA/giphy.gif" width="35" alt="Global"/> Geographic Footprint
@@ -88,16 +88,16 @@ class IbrahimElmasry:
 
 <div align="center">
   
-| 🇪🇬 **Egypt** | 🇦🇪 **UAE** | 🇸🇦 **Saudi Arabia** | 🇶🇦 **Qatar** |
-|:------------:|:-----------:|:-------------------:|:------------:|
-| Primary Base | Dubai & RAK | Multiple Cities | Doha Region |
-| <img src="https://img.shields.io/badge/25%2B-Clients-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/15%2B-Clients-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/8%2B-Clients-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/5%2B-Clients-blue?style=flat-square"/> |
+| **Egypt** | **Saudi Arabia** | **UAE** | **Qatar** | **Jordan** | **Iraq** |
+|:------------:|:-----------:|:-------------------:|:------------:|:---------:|:-------:|
+| Primary Base | Major Market | Dubai & RAK | Doha Region | Amman | Baghdad |
+| <img src="https://img.shields.io/badge/17-Clients-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/18-Clients-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/4-Clients-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/9-Clients-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/1-Client-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/2-Clients-blue?style=flat-square"/> |
 
 </div>
 
 ---
 
-<!-- 🏢 Industry Expertise -->
+<!-- Industry Expertise -->
 <div align="center">
   
 ### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35" alt="Industries"/> Industries Served
@@ -108,93 +108,142 @@ class IbrahimElmasry:
 <tr>
 <td valign="top" width="25%">
 
-#### 🏗️ **Construction & Contracting**
+#### **Food & Restaurants**
 <sup>
 
-- Flexible Service for General Contracting
 - Monish
-- Dam Construction LLC
-- Saud Al-Turaif Establishment
-- Galal Rahem Ben Abdelrahim Elmaghraby Company
-
-</sup>
-
-<img src="https://img.shields.io/badge/5-Projects-00D9FF?style=flat-square" alt="Construction"/>
-
-</td>
-<td valign="top" width="25%">
-
-#### 🍽️ **Food & Restaurants**
-<sup>
-
-- Alaz for Food Industry
+- Galal Rahem Ben Abdelrahim
 - Grove Restaurant
 - Holy Restaurant
-- Al Najmah Restaurant (KSA)
+- Al Najmah Restaurant
 - Chicken I Land Restaurant
 - Islamic Bank Restaurant
 
 </sup>
 
-<img src="https://img.shields.io/badge/6-Projects-FF6B6B?style=flat-square" alt="Food"/>
+<img src="https://img.shields.io/badge/7-Projects-FF6B6B?style=flat-square" alt="Food"/>
 
 </td>
 <td valign="top" width="25%">
 
-#### 🏭 **Manufacturing**
+#### **Construction & Contracting**
 <sup>
 
-- Al Muttahida Cotton Factory
+- Flexible Service for General Contracting
+- Dam Construction LLC
+- Saud Al-Turaif Establishment
+- Haitara
+
+</sup>
+
+<img src="https://img.shields.io/badge/4-Projects-00D9FF?style=flat-square" alt="Construction"/>
+
+</td>
+<td valign="top" width="25%">
+
+#### **Manufacturing**
+<sup>
+
 - Kholoud Al-Saadawi Factory
 - Qatar Modern Factory for Tyres
 - Royal Star for Plastic Industry
 - Hummer Furniture Factory
+- Trie Oxygen (Dubai)
+- Al Muttahida Cotton Factory
+- katra
 
 </sup>
 
-<img src="https://img.shields.io/badge/5-Projects-9B59B6?style=flat-square" alt="Manufacturing"/>
+<img src="https://img.shields.io/badge/7-Projects-9B59B6?style=flat-square" alt="Manufacturing"/>
 
 </td>
 <td valign="top" width="25%">
 
-#### 🏨 **Hospitality & Events**
+#### **Trading & Retail**
 <sup>
 
-- Palazzo Ballroom
-- Rose Palace
-- Ashal Hujuzat
-- Qasr Almariyah
+- Perla
+- Dalton
+- Soltan Elabtekar
+- Amber
+- Golden Market for Trading
+- Pure Supplies
+- Diamond Supply
+- Al-Tawreed Al-Masi (Diamond Supply)
 
 </sup>
 
-<img src="https://img.shields.io/badge/4-Projects-E74C3C?style=flat-square" alt="Hospitality"/>
+<img src="https://img.shields.io/badge/8-Projects-F39C12?style=flat-square" alt="Trading"/>
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="25%">
 
-#### 💻 **Technology**
+#### **Hospitality & Events**
 <sup>
 
-- Titan X
-- Neo Ship
-- Innovadigits
-- Soltan Elabtekar
-- TOYOU Company
+- Rose Palace
+- Palazzo Ballroom
+- Ashal Hujuzat
 
 </sup>
 
-<img src="https://img.shields.io/badge/5-Projects-3498DB?style=flat-square" alt="Tech"/>
+<img src="https://img.shields.io/badge/3-Projects-E74C3C?style=flat-square" alt="Hospitality"/>
 
 </td>
 <td valign="top" width="25%">
 
-#### ⚕️ **Healthcare**
+#### **Petroleum & Industrial**
 <sup>
 
-- Advanced Care
+- Bonanza RAK
+- Traid Paint
+- Magawish Petroleum Company
+- Alaz for Food Industry
+- Izdehar
+
+</sup>
+
+<img src="https://img.shields.io/badge/5-Projects-795548?style=flat-square" alt="Petroleum"/>
+
+</td>
+<td valign="top" width="25%">
+
+#### **Technology**
+<sup>
+
+- Neo Ship
+- Innovadigits
+
+</sup>
+
+<img src="https://img.shields.io/badge/2-Projects-3498DB?style=flat-square" alt="Tech"/>
+
+</td>
+<td valign="top" width="25%">
+
+#### **Fashion & Marketing**
+<sup>
+
+- Romeya for Marketing
+- Al Zhbya International
+- Vera Fashion
+
+</sup>
+
+<img src="https://img.shields.io/badge/3-Projects-E91E63?style=flat-square" alt="Fashion"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="25%">
+
+#### **Healthcare**
+<sup>
+
 - Protect Ever
+- Advanced Care
 
 </sup>
 
@@ -203,40 +252,7 @@ class IbrahimElmasry:
 </td>
 <td valign="top" width="25%">
 
-#### 🛒 **Trading & Retail**
-<sup>
-
-- Golden Market for Trading
-- Diamond Supply
-- Pure Supplies
-- Dalton
-- Amber
-
-</sup>
-
-<img src="https://img.shields.io/badge/5-Projects-F39C12?style=flat-square" alt="Trading"/>
-
-</td>
-<td valign="top" width="25%">
-
-#### 🎨 **Fashion & Marketing**
-<sup>
-
-- Vera Fashion
-- Romeya for Marketing
-- Al Zhbya International
-- Perla
-
-</sup>
-
-<img src="https://img.shields.io/badge/4-Projects-E91E63?style=flat-square" alt="Fashion"/>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="25%">
-
-#### ⚖️ **Legal & Professional**
+#### **Legal & Professional**
 <sup>
 
 - ILaw (UAE)
@@ -249,42 +265,78 @@ class IbrahimElmasry:
 </td>
 <td valign="top" width="25%">
 
-#### 🛢️ **Petroleum & Industrial**
+#### **Real Estate & Tourism**
 <sup>
 
-- Magawish Petroleum Company
-- Traid Paint
-- Mid Core Farma
-- Bonanza RAK
+- Qasr Almariyah
+- Reach World
 
 </sup>
 
-<img src="https://img.shields.io/badge/4-Projects-795548?style=flat-square" alt="Petroleum"/>
+<img src="https://img.shields.io/badge/2-Projects-00BCD4?style=flat-square" alt="Real Estate"/>
 
 </td>
 <td valign="top" width="25%">
 
-#### 🏠 **Home & Living**
+#### **Insurance**
+<sup>
+
+- Sarwa Life
+- Sarwa Insurance
+
+</sup>
+
+<img src="https://img.shields.io/badge/2-Projects-FF5722?style=flat-square" alt="Insurance"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="25%">
+
+#### **Home & Living**
 <sup>
 
 - House Covers Industries
-- Trie Oxygen (Dubai)
 
 </sup>
 
-<img src="https://img.shields.io/badge/2-Projects-8BC34A?style=flat-square" alt="Home"/>
+<img src="https://img.shields.io/badge/1-Project-8BC34A?style=flat-square" alt="Home"/>
 
 </td>
 <td valign="top" width="25%">
 
-#### 💰 **Finance & Investment**
+#### **Finance & Investment**
 <sup>
 
-- Izdehar
+- TOYOU Company
 
 </sup>
 
 <img src="https://img.shields.io/badge/1-Project-4CAF50?style=flat-square" alt="Finance"/>
+
+</td>
+<td valign="top" width="25%">
+
+#### **Pharmaceuticals**
+<sup>
+
+- Mid Core Farma
+
+</sup>
+
+<img src="https://img.shields.io/badge/1-Project-9C27B0?style=flat-square" alt="Pharma"/>
+
+</td>
+<td valign="top" width="25%">
+
+#### **Sports**
+<sup>
+
+- Titan X
+
+</sup>
+
+<img src="https://img.shields.io/badge/1-Project-FF9800?style=flat-square" alt="Sports"/>
 
 </td>
 </tr>
@@ -292,10 +344,10 @@ class IbrahimElmasry:
 
 ---
 
-<!-- 📋 Complete Client Portfolio -->
+<!-- Complete Client Portfolio -->
 <div align="center">
   
-### <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="35" alt="Portfolio"/> Complete Client Portfolio (50+)
+### <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="35" alt="Portfolio"/> Complete Client Portfolio (51)
 
 </div>
 
@@ -303,36 +355,38 @@ class IbrahimElmasry:
   
 | # | Client | Industry | Country | # | Client | Industry | Country |
 |:---:|:-------|:---------|:-------:|:---:|:-------|:---------|:-------:|
-| 1 | Flexible Service for General Contracting | Construction | 🇪🇬 | 27 | Alaz for Food Industry | Food | 🇪🇬 |
-| 2 | Monish | Construction | 🇦🇪 | 28 | Izdehar | Finance | 🇸🇦 |
-| 3 | Dam Construction LLC | Construction | 🇦🇪 | 29 | Grove Restaurant | Hospitality | 🇦🇪 |
-| 4 | Protect Ever | Healthcare | 🇪🇬 | 30 | Palazzo Ballroom | Events | 🇦🇪 |
-| 5 | House Covers Industries | Manufacturing | 🇪🇬 | 31 | Holy Restaurant | Hospitality | 🇦🇪 |
-| 6 | Bonanza RAK | Industrial | 🇦🇪 | 32 | Saud Al-Turaif Establishment | Construction | 🇸🇦 |
-| 7 | ILaw (UAE) | Legal | 🇦🇪 | 33 | Islamic Bank Restaurant | Hospitality | 🇪🇬 |
-| 8 | Rose Palace | Hospitality | 🇦🇪 | 34 | Al Muttahida Cotton Factory | Manufacturing | 🇪🇬 |
-| 9 | Kholoud Al-Saadawi Factory | Manufacturing | 🇪🇬 | 35 | Al Najmah Restaurant | Hospitality | 🇸🇦 |
-| 10 | The Qaed Quality Leader | Professional | 🇸🇦 | 36 | Ashal Hujuzat | Hospitality | 🇸🇦 |
-| 11 | Galal Rahem Ben Abdelrahim Elmaghraby | Construction | 🇸🇦 | 37 | Titan X | Technology | 🇦🇪 |
-| 12 | Neo Ship | Technology | 🇦🇪 | 38 | Advanced Care | Healthcare | 🇪🇬 |
-| 13 | Romeya for Marketing | Marketing | 🇪🇬 | 39 | Al Zhbya International | Trading | 🇸🇦 |
-| 14 | Perla | Fashion | 🇦🇪 | 40 | Amber | Trading | 🇦🇪 |
-| 15 | Qatar Modern Factory for Tyres | Manufacturing | 🇶🇦 | 41 | Golden Market for Trading | Trading | 🇸🇦 |
-| 16 | Dalton | Trading | 🇦🇪 | 42 | Pure Supplies | Trading | 🇸🇦 |
-| 17 | Royal Star for Plastic Industry | Manufacturing | 🇪🇬 | 43 | Chicken I Land Restaurant | Hospitality | 🇸🇦 |
-| 18 | Hummer Furniture Factory | Manufacturing | 🇪🇬 | 44 | TOYOU Company | Technology | 🇸🇦 |
-| 19 | Qasr Almariyah | Hospitality | 🇦🇪 | 45 | Vera Fashion | Fashion | 🇸🇦 |
-| 20 | Trie Oxygen (Dubai) | Home & Living | 🇦🇪 | 46 | Innovadigits | Technology | 🇪🇬 |
-| 21 | Soltan Elabtekar | Technology | 🇪🇬 | 47 | Diamond Supply | Trading | 🇸🇦 |
-| 22 | Traid Paint | Industrial | 🇪🇬 | 48 | Mid Core Farma | Pharmaceuticals | 🇪🇬 |
-| 23 | Magawish Petroleum Company | Petroleum | 🇪🇬 | 49 | - | - | - |
-| 24 | - | - | - | 50 | - | - | - |
+| 1 | Flexible Service for General Contracting | Construction & Contracting | SA | 27 | Grove Restaurant | Food & Restaurants | SA |
+| 2 | Monish | Food & Restaurants | SA | 28 | Palazzo Ballroom | Hospitality & Events | SA |
+| 3 | Dam Construction LLC | Construction & Contracting | AE | 29 | Holy Restaurant | Food & Restaurants | SA |
+| 4 | Protect Ever | Healthcare | EG | 30 | Saud Al-Turaif Establishment | Construction & Contracting | SA |
+| 5 | House Covers Industries | Home & Living | EG | 31 | Islamic Bank Restaurant | Food & Restaurants | SA |
+| 6 | Bonanza RAK | Petroleum & Industrial | AE | 32 | Al Muttahida Cotton Factory | Manufacturing | SA |
+| 7 | ILaw (UAE) | Legal & Professional | AE | 33 | Al Najmah Restaurant | Food & Restaurants | SA |
+| 8 | Rose Palace | Hospitality & Events | SA | 34 | Ashal Hujuzat | Hospitality & Events | SA |
+| 9 | Kholoud Al-Saadawi Factory | Manufacturing | SA | 35 | Titan X | Sports | QA |
+| 10 | The Qaed Quality Leader | Legal & Professional | SA | 36 | Advanced Care | Healthcare | QA |
+| 11 | Galal Rahem Ben Abdelrahim Elmaghraby | Food & Restaurants | SA | 37 | Al Zhbya International | Fashion & Marketing | QA |
+| 12 | Neo Ship | Technology | QA | 38 | Amber | Trading & Retail | QA |
+| 13 | Romeya for Marketing | Fashion & Marketing | QA | 39 | Golden Market for Trading | Trading & Retail | EG |
+| 14 | Perla | Trading & Retail | QA | 40 | Pure Supplies | Trading & Retail | EG |
+| 15 | Qatar Modern Factory for Tyres | Manufacturing | QA | 41 | Chicken I Land Restaurant | Food & Restaurants | EG |
+| 16 | Dalton | Trading & Retail | EG | 42 | TOYOU Company | Finance & Investment | EG |
+| 17 | Royal Star for Plastic Industry | Manufacturing | EG | 43 | Vera Fashion | Fashion & Marketing | IQ |
+| 18 | Hummer Furniture Factory | Manufacturing | EG | 44 | Innovadigits | Technology | EG |
+| 19 | Qasr Almariyah | Real Estate & Tourism | IQ | 45 | Diamond Supply | Trading & Retail | SA |
+| 20 | Trie Oxygen (Dubai) | Manufacturing | AE | 46 | Mid Core Farma | Pharmaceuticals | EG |
+| 21 | Soltan Elabtekar | Trading & Retail | EG | 47 | Reach World | Real Estate & Tourism | JO |
+| 22 | Traid Paint | Petroleum & Industrial | EG | 48 | Sarwa Life | Insurance | EG |
+| 23 | Magawish Petroleum Company | Petroleum & Industrial | EG | 49 | Sarwa Insurance | Insurance | EG |
+| 24 | Haitara | Construction & Contracting | QA | 50 | katra | Manufacturing | SA |
+| 25 | Alaz for Food Industry | Petroleum & Industrial | EG | 51 | Al-Tawreed Al-Masi | Trading & Retail | SA |
+| 26 | Izdehar | Petroleum & Industrial | SA | | | | |
 
 </div>
 
 ---
 
-<!-- 🛠️ Tech Stack -->
+<!-- Tech Stack -->
 <div align="center">
   
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" alt="Tech Stack"/> Technical Arsenal
@@ -341,10 +395,10 @@ class IbrahimElmasry:
 
 <table align="center">
 <tr>
-<th>💻 Languages</th>
-<th>🔧 Frameworks & ERP</th>
-<th>🗄️ Databases</th>
-<th>🚀 DevOps & Tools</th>
+<th>Languages</th>
+<th>Frameworks & ERP</th>
+<th>Databases</th>
+<th>DevOps & Tools</th>
 </tr>
 <tr>
 <td align="center">
@@ -356,7 +410,7 @@ class IbrahimElmasry:
 </td>
 <td align="center">
 
-![Odoo](https://img.shields.io/badge/Odoo_17|18|19-Expert-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo_17%7C18%7C19-Expert-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-Advanced-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Intermediate-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -389,7 +443,7 @@ class IbrahimElmasry:
 
 ---
 
-<!-- 🎯 What I Deliver -->
+<!-- What I Deliver -->
 <div align="center">
   
 ### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35" alt="Services"/> What I Deliver
@@ -398,13 +452,13 @@ class IbrahimElmasry:
 
 <div align="center">
   
-| 🚀 **Odoo Implementation** | 🔧 **Custom Development** | 🔗 **Integrations** | 📊 **Data Migration** |
+| **Odoo Implementation** | **Custom Development** | **Integrations** | **Data Migration** |
 |:--------------------------|:-------------------------|:--------------------|:---------------------|
 | Full-cycle ERP deployment | Custom modules & apps | Payment gateways | Legacy system data |
 | Module configuration | Workflow automation | Third-party APIs | Data cleansing |
 | User training | Report customization | E-commerce platforms | Validation & testing |
 
-| ⚡ **Process Automation** | 🛠️ **Support & Maintenance** | 🌐 **Multi-company Setup** | 📱 **POS Solutions** |
+| **Process Automation** | **Support & Maintenance** | **Multi-company Setup** | **POS Solutions** |
 |:-------------------------|:----------------------------|:--------------------------|:--------------------|
 | Workflow optimization | Bug fixes & patches | Multi-branch management | Hardware integration |
 | Approval workflows | Performance optimization | Inter-company transactions | Offline capability |
@@ -414,7 +468,7 @@ class IbrahimElmasry:
 
 ---
 
-<!-- 📈 GitHub Stats -->
+<!-- GitHub Stats -->
 <div align="center">
   
 ### <img src="https://media.giphy.com/media/jdPMeyv9nIY4Ze6L4k/giphy.gif" width="35" alt="Stats"/> GitHub Activity
@@ -431,7 +485,7 @@ class IbrahimElmasry:
 
 ---
 
-<!-- 🏆 Trophies -->
+<!-- Trophies -->
 <div align="center">
   
 <img src="https://github-profile-trophy.vercel.app/?username=Elmasry-631&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
@@ -440,7 +494,7 @@ class IbrahimElmasry:
 
 ---
 
-<!-- 🤝 CTA Section -->
+<!-- CTA Section -->
 <div align="center">
   
 ### <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="35" alt="Connect"/> Ready to Transform Your Business?
@@ -450,10 +504,10 @@ class IbrahimElmasry:
 </p>
 
 <a href="mailto:ibrahimelmasry631@gmail.com">
-  <img src="https://custom-icon-badges.demolab.com/badge/📧_Email_Me-Get_In_Touch-EA4335?style=for-the-badge" alt="Email"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Email_Me-Get_In_Touch-EA4335?style=for-the-badge" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/ibrahim-mahmoud-ibrahim" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/>
 </a>
 
 <!-- Quote -->
