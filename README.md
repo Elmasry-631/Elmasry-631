@@ -111,13 +111,13 @@ class IbrahimElmasry:
 #### **Food & Restaurants**
 <sup>
 
-- Monish
-- Galal Rahem Ben Abdelrahim
-- Grove Restaurant
-- Holy Restaurant
-- Al Najmah Restaurant
-- Chicken I Land Restaurant
-- Islamic Bank Restaurant
+- Monish <br>
+- Galal Rahem Ben Abdelrahim<br>
+- Grove Restaurant<br>
+- Holy Restaurant<br>
+- Al Najmah Restaurant<br>
+- Chicken I Land Restaurant<br>
+- Islamic Bank Restaurant<br>
 
 </sup>
 
