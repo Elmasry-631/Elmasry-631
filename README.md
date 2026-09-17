@@ -1292,17 +1292,14 @@ flowchart LR
 
 <div align="center">
 
-## 📊 GitHub Activity & Contribution Analytics
+## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Elmasry-631&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=8957E5&text_color=c9d1d9&ring_color=58A6FF&include_all_commits=true&count_private=true&border_radius=14" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Elmasry-631&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=8957E5&text_color=c9d1d9&include_all_commits=true&count_private=true&border_radius=14" alt="Stats"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmasry-631&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=14&langs_count=8" alt="Top Languages"/>
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=Elmasry-631&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=8957E5&fire=F472B6&currStreakLabel=58A6FF&border_radius=14" alt="Streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Elmasry-631&bg_color=0d1117&color=58A6FF&line=8957E5&point=F472B6&area=true&hide_border=true&radius=14" alt="Activity Graph"/>
-
 </div>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -1324,12 +1321,22 @@ flowchart LR
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ▓▓▓  TROPHIES  ▓▓▓                                                          -->
+<!-- ▓▓▓  TECH ARSENAL — ICONS  ▓▓▓                                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Elmasry-631&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&row=1" alt="Trophies"/>
+## 🏅 Tech Arsenal — Visual Icons
+
+<a href="https://github.com/Elmasry-631">
+  <img src="https://skillicons.dev/icons?i=py,postgres,docker,linux,git,django,redis,nginx,bash,js,html,css,vscode,github&perline=14" alt="Tech Stack"/>
+</a>
+
+<br/><br/>
+
+## 🎖️ Skills Snapshot
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Elmasry-631&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=14&layout=compact" alt="WakaTime" onerror="this.style.display='none'"/>
 
 </div>
 
