@@ -1,71 +1,79 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                    I B R A H I M   E L M A S R Y                            -->
+<!--              Senior Odoo Developer · ERP Architect · v2026                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 🌌 COSMIC HEADER - ULTRA PREMIUM 3D INTRO -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 🌌 COSMIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:111133,25:1a1f40,40:3d4a65,55:58a6ff,70:8957e5,85:c084fc,100:f472b6&height=300&section=header&text=Ibrahim%20Elmasry&fontSize=88&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Senior%20Odoo%20Developer%20%E2%80%A2%20ERP%20Architect%20%E2%80%A2%20Business%20Automation%20Expert&descAlignY=64&descSize=22&descColor=58A6FF&fontFamily=Georgia&fontWeight=bold&stroke=58A6FF&strokeWidth=2" alt="Cosmic Header"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,5:0a001a,10:0d0220,15:111133,20:161b33,25:1a1f40,30:212650,35:2d3a50,40:3d4a65,45:4a5a7a,50:58a6ff,55:4f8ef7,60:4677ee,65:3d60e5,70:8957e5,75:a371f7,80:c084fc,85:d8b4fe,90:f472b6,95:fb7185,100:ff7b72&height=320&section=header&text=Ibrahim%20Elmasry&fontSize=85&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Senior%20Odoo%20Developer%20%7C%20ERP%20Architect%20%7C%20Business%20Automation%20Expert&descAlignY=68&descSize=24&descColor=58A6FF&fontFamily=Georgia&fontWeight=bold&stroke=58A6FF&strokeWidth=3" alt="Cosmic Header"/>
+<!-- ⚡ QUANTUM TYPING -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=58A6FF&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Building+Enterprise+ERP+Solutions+That+Scale;%E2%9C%A8+54%2B+Projects+%E2%80%A2+18+Industries+%E2%80%A2+6+Countries;%F0%9F%8C%8D+MENA+Specialist+%E2%80%94+EG+%7C+SA+%7C+UAE+%7C+QA+%7C+JO+%7C+IQ;%E2%9A%A1+Saving+Businesses+40%25+Time+via+Smart+Automation;%F0%9F%8E%AF+From+Non-Profits+to+Manufacturing+%E2%80%94+End-to-End;%F0%9F%92%A1+Transforming+Ideas+Into+Production-Ready+Solutions;%F0%9F%94%A5+Odoo+15%2F16%2F17%2F18+%7C+Python+%7C+PostgreSQL;%F0%9F%8F%86+99%25+Retention+%7C+98%25+On-Time+%7C+9.8%2F10+Rating" alt="Quantum Typing"/>
+</a>
 
-<!-- ⚡ QUANTUM TYPING - ULTRA ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=1200&lines=%F0%9F%9A%80+Building+Enterprise+ERP+Solutions+That+Scale;%E2%9C%A8+54%2B+Successful+Projects+Across+18+Industries+%26+6+Countries;%F0%9F%8C%8D+MENA+Region+Specialist+-+Egypt+%7C+Saudi+%7C+UAE+%7C+Qatar+%7C+Jordan+%7C+Iraq;%E2%9A%A1+Saving+Businesses+40%25+Time+Through+Smart+Automation;%F0%9F%8E%AF+From+Non-Profits+to+Manufacturing+-+End-to-End+Delivery;%F0%9F%92%A1+Transforming+Ideas+Into+Production-Ready+Solutions;%F0%9F%94%A5+Odoo+15/16/17/18+Expert+%7C+Python+%7C+PostgreSQL;%F0%9F%8F%86+99%25+Client+Retention+%7C+98%25+On-Time+Delivery" alt="Quantum Typing"/>
+<br/><br/>
 
-</div>
+<!-- 🔮 NEON SOCIAL LINKS -->
+<a href="https://www.linkedin.com/in/ibrahim-mahmoud-ibrahim" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ibrahimelmasry631@gmail.com"><img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Elmasry-631" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow_Star-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://wa.me/20XXXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Quick_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://x.com/elmasry_631" target="_blank"><img src="https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.youtube.com/@elmasry631" target="_blank"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
 <br/>
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 🔮 NEON SOCIAL LINKS - GLOWING HOVER EFFECTS -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<p align="center">
-  
-<a href="https://www.linkedin.com/in/ibrahim-mahmoud-ibrahim" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182&logoSize=7%&size=1.5x" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:ibrahimelmasry631@gmail.com">
-<img src="https://img.shields.io/badge/Email-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c41313&logoSize=7%&size=1.5x" alt="Email"/>
-</a>
-
-<a href="https://github.com/Elmasry-631" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Follow_Star_Fork-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d&logoSize=7%&size=1.5x" alt="GitHub"/>
-</a>
-
-<a href="https://wa.me/201000000000" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-Quick_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128c34&logoSize=7%&size=1.5x" alt="WhatsApp"/>
-</a>
-
-<a href="https://twitter.com/elmasry_631" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d8ecf&logoSize=7%&size=1.5x" alt="Twitter"/>
-</a>
-
-<a href="https://www.youtube.com/@elmasry631" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=cc0000&logoSize=7%&size=1.5x" alt="YouTube"/>
-</a>
-
-</p>
-
-<!-- Ultra Status Bar with All Metrics -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Elmasry-631&label=Total%20Visitors&color=58A6FF&style=for-the-badge&logo=eye&labelColor=010409&countColor=f0f6fc&logoSize=7%" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/Status-Available_for_Hire-success?style=for-the-badge&logo=check-circle&logoColor=white&labelColor=065f46"/>
-<img src="https://img.shields.io/badge/Response-Time-%3C24hrs-8B5CF6?style=for-the-badge&logo=clock&logoColor=white&labelColor=4c1d95"/>
-<img src="https://img.shields.io/badge/Projects-54%2B-F59E0B?style=for-the-badge&logo=project&logoColor=white&labelColor=78350f"/>
-</p>
+<!-- ULTRA STATUS BAR -->
+<img src="https://komarev.com/ghpvc/?username=Elmasry-631&label=Total+Visitors&color=8957e5&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Status-Available_for_Hire-3FB950?style=for-the-badge" alt="Hire"/>
+<img src="https://img.shields.io/badge/Response-Under_24h-8B5CF6?style=for-the-badge" alt="Response"/>
+<img src="https://img.shields.io/badge/Projects-54%2B-F59E0B?style=for-the-badge" alt="Projects"/>
+<img src="https://img.shields.io/badge/Timezone-GMT%2B2-58A6FF?style=for-the-badge" alt="TZ"/>
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 QUICK STATS - VISUAL IMPACT ROW -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  LIVE TERMINAL  ▓▓▓                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2VqcGJkZzR6dGZhaWUycmYyMDh4dHd6bWxjODFyeHB6eTZwYSZlcD12MV9pbnRlcm5hbF1naWQqfnB8MQ/t/ZvRpLpjbT2jfK/giphy.gif" width="55" alt="Dashboard"/> ⚡ Quick Impact Stats
+```console
+┌─[ibrahim@cairo]─[~/erp]───────────────────────────────────────────────┐
+│                                                                       │
+│  $ whoami                                                             │
+│  > Senior Odoo Developer · ERP Architect · Automation Expert          │
+│                                                                       │
+│  $ cat /etc/location                                                  │
+│  > Cairo · Egypt 🇪🇬  →  Serving 🇸🇦 🇦🇪 🇶🇦 🇯🇴 🇮🇶 🇪🇬           │
+│                                                                       │
+│  $ systemctl status ibrahim.service                                   │
+│  > ● active (running)  •  uptime: 5 years  •  load: 54 projects       │
+│                                                                       │
+│  $ ibrahim --stack                                                    │
+│  > Odoo 15–18  |  Python 3  |  PostgreSQL  |  XML/QWeb  |  Docker     │
+│                                                                       │
+│  $ ibrahim --availability                                             │
+│  > ✅ Open for freelance & full-time opportunities                    │
+│                                                                       │
+└───────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  QUICK IMPACT STATS  ▓▓▓                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⚡ Quick Impact Stats
 
 <table>
 <tr>
@@ -73,41 +81,47 @@
 
 ### 📊 **54+**
 *Projects Done*
-<img src="https://img.shields.io/badge/Trend-%2B12_this_year-10B981?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/%2B12_this_year-10B981?style=flat-square"/>
 
 </td>
 <td align="center" width="16.66%">
 
 ### 👥 **45+**
 *Happy Clients*
-<img src="https://img.shields.io/badge/Retention-99%25-F59E0B?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/Retention_99%25-F59E0B?style=flat-square"/>
 
 </td>
 <td align="center" width="16.66%">
 
 ### 🌍 **6**
 *Countries Served*
-<img src="https://img.shields.io/badge/Region-MENA_Specialist-3B82F6?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/MENA_Specialist-3B82F6?style=flat-square"/>
 
 </td>
 <td align="center" width="16.66%">
 
 ### 🏭 **18**
-*Industries Covered*
-<img src="https://img.shields.io/badge/Diversity-High-EC4899?style=flat-square"/>
+*Industries*
+<br/>
+<img src="https://img.shields.io/badge/High_Diversity-EC4899?style=flat-square"/>
 
 </td>
 <td align="center" width="16.66%">
 
-### ⏱️ **4-6wks**
+### ⏱️ **4–6w**
 *Avg Delivery*
+<br/>
 <img src="https://img.shields.io/badge/Speed-Fast-8B5CF6?style=flat-square"/>
 
 </td>
 <td align="center" width="16.66%">
 
 ### ⭐ **9.8/10**
-*Satisfaction Score*
+*Satisfaction*
+<br/>
 <img src="https://img.shields.io/badge/Rating-Excellent-EAB308?style=flat-square"/>
 
 </td>
@@ -118,9 +132,9 @@
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 DETAILED DASHBOARD - COMPREHENSIVE METRICS -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  DETAILED PERFORMANCE DASHBOARD  ▓▓▓                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -128,13 +142,13 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 <details open>
 <summary><b>🎯 Project Excellence</b></summary>
 <br/>
 
 | Metric | Value | Benchmark |
-|--------|-------|-----------|
+|:-------|:-----:|:---------:|
 | Total Projects | **54+** | Top 5% |
 | On-Time Delivery | **98%** | Industry: 75% |
 | Bug-Free Rate | **99.5%** | Exceptional |
@@ -144,13 +158,13 @@
 
 </details>
 </td>
-<td align="center" width="34%">
+<td align="center" width="34%" valign="top">
 <details open>
 <summary><b>🌍 Market Penetration</b></summary>
 <br/>
 
-| Region | Clients | Revenue Share |
-|--------|---------|---------------|
+| Region | Clients | Share |
+|:-------|:-------:|:-----:|
 | 🇸🇦 Saudi Arabia | 20 | 38% |
 | 🇪🇬 Egypt (HQ) | 19 | 28% |
 | 🇶🇦 Qatar | 9 | 14% |
@@ -160,13 +174,13 @@
 
 </details>
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 <details open>
 <summary><b>🏭 Sector Distribution</b></summary>
 <br/>
 
-| Industry | Projects | Growth |
-|----------|----------|--------|
+| Industry | Projects | Trend |
+|:---------|:--------:|:-----:|
 | 🍽️ Food & Restaurant | 10+ | 🔥 Hot |
 | 🛒 Trading & Retail | 10+ | 📈 Growing |
 | 🏭 Manufacturing | 8+ | ✅ Stable |
@@ -183,62 +197,47 @@
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 👨‍💻 ABOUT ME - IMMERSIVE CODE EXPERIENCE V2 -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  ABOUT ME — FULL CODE CLASS  ▓▓▓                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/VdoIFLtbMCQWsFVZw5/giphy.gif" width="50" alt="Code"/> <samp><span style="color:#58A6FF;">from</span> ibrahim_elmasry <span style="color:#58A6FF;">import</span> <span style="color:#FFA657;">*</span></samp>
+## 👨‍💻 `from ibrahim_elmasry import *`
+
+</div>
 
 ```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║   ██████╗ ██╗   ██╗██████╗  █████╗ ███╗   ██╗██████╗ ██╗███╗   ██╗████████╗  ║
-║  ██╔════╝ ██║   ██║██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║████╗  ██║╚══██╔══╝  ║
-║  ██║  ███╗██║   ██║██████╔╝███████║██╔██╗ ██║██║  ██║██║██╔██╗ ██║   ██║     ║
-║  ██║   ██║██║   ██║██╔══██╗██╔══██║██║╚██╗██║██║  ██║██║██║╚██╗██║   ██║     ║
-║  ╚██████╔╝╚██████╔╝██████╔╝██║  ██║██║ ╚████║██████╔╝██║██║ ╚████║   ██║     ║
-║   ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝╚═╝  ╚═══╝   ╚═╝     ║
-║                                                                               ║
-║                         Ibrahim Elmasry v2025.3                               ║
-║            Senior Odoo Developer | ERP Architect | Business Automation         ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-
-    📍 Location: Cairo, Egypt (Serving MENA Region)
-    💼 Experience: 5+ Years of Enterprise ERP Development
-    🎯 Focus: Odoo Customization | Business Process Automation | Data Migration
-    
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    
-    📊 KEY METRICS:
-    ────────────────────────────────────────────────────────────────────────
-    ├─ Projects Completed      : 54+
-    ├─ Client Satisfaction     : 9.8/10
-    ├─ On-Time Delivery        : 98%
-    ├─ Client Retention Rate   : 99%
-    ├─ Countries Served        : 6 (MENA Region)
-    └─ Industries Covered      : 18+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   ██████╗ ██╗   ██╗██████╗  █████╗ ███╗   ██╗██████╗ ██╗███╗   ██╗████████╗
+║  ██╔════╝ ██║   ██║██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║████╗  ██║╚══██╔══╝
+║  ██║  ███╗██║   ██║██████╔╝███████║██╔██╗ ██║██║  ██║██║██╔██╗ ██║   ██║
+║  ██║   ██║██║   ██║██╔══██╗██╔══██║██║╚██╗██║██║  ██║██║██║╚██╗██║   ██║
+║  ╚██████╔╝╚██████╔╝██████╔╝██║  ██║██║ ╚████║██████╔╝██║██║ ╚████║   ██║
+║   ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝╚═╝  ╚═══╝   ╚═╝
+║                                                                           ║
+║                   Ibrahim Elmasry · v2026.1                               ║
+║    Senior Odoo Developer | ERP Architect | Business Automation            ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 """
 
-import os
-import json
+import random
 from dataclasses import dataclass, field
-from typing import Dict, List, Optional, Tuple
-from enum import Enum, auto
-from datetime import datetime
+from typing import Dict, List
+from enum import Enum
 
 
 class SkillLevel(Enum):
-    """Proficiency levels for technical skills"""
-    EXPERT = ("Expert", 95)
-    ADVANCED = ("Advanced", 75)
-    INTERMEDIATE = ("Intermediate", 55)
-    
+    """Proficiency levels for technical skills."""
+    EXPERT       = ("Expert",       95)
+    ADVANCED     = ("Advanced",     80)
+    INTERMEDIATE = ("Intermediate", 65)
+
     def __init__(self, label: str, percentage: int):
         self.label = label
         self.percentage = percentage
@@ -246,173 +245,114 @@ class SkillLevel(Enum):
 
 @dataclass(frozen=True)
 class Technology:
-    """Represents a technology skill with visual progress bar"""
+    """A technology skill with a visual progress bar."""
     name: str
     level: SkillLevel
     years_experience: int
     category: str
-    
+
     @property
     def proficiency_bar(self) -> str:
         filled = "█" * (self.level.percentage // 5)
-        empty = "░" * (20 - self.level.percentage // 5)
+        empty  = "░" * (20 - self.level.percentage // 5)
         return f"[{filled}{empty}] {self.level.percentage}%"
-    
+
     @property
-    def emoji_indicator(self) -> str:
-        if self.level.percentage >= 90:
-            return "🟢"
-        elif self.level.percentage >= 70:
-            return "🟡"
-        else:
-            return "🟠"
+    def indicator(self) -> str:
+        if self.level.percentage >= 90:   return "🟢"
+        if self.level.percentage >= 70:   return "🟡"
+        return "🟠"
 
 
 @dataclass
 class ClientProject:
-    """Represents a completed client project with full details"""
+    """A completed client project with full details."""
     id: int
     name: str
     industry: str
     country: str
     year: int
-    technologies_used: List[str]
-    scope_description: str
-    client_satisfaction: int  # 1-10
-    project_duration_weeks: int
+    technologies: List[str]
+    scope: str
+    satisfaction: int            # 1-10
+    duration_weeks: int
     team_size: int
-    
-    def __post_init__(self):
-        assert 1 <= self.client_satisfaction <= 10, "Satisfaction must be 1-10"
-        
+
     @property
-    def complexity_badge(self) -> str:
-        if self.project_duration_weeks > 8:
-            return "🔴 Enterprise"
-        elif self.project_duration_weeks > 4:
-            return "🟡 Advanced"
-        else:
-            return "🟢 Standard"
+    def complexity(self) -> str:
+        if self.duration_weeks > 8:  return "🔴 Enterprise"
+        if self.duration_weeks > 4:  return "🟡 Advanced"
+        return "🟢 Standard"
 
 
 class IbrahimElmasry:
     """
-    ════════════════════════════════════════════════════════════════════════
-    Senior Odoo Developer & ERP Architect
-    ════════════════════════════════════════════════════════════════════════
-    
-    A passionate developer specializing in end-to-end business automation 
-    solutions using the Odoo ecosystem. With 5+ years of experience serving 
-    clients across 6 MENA countries, I bring deep expertise in:
-    
-    • Full-cycle ERP implementation from analysis to deployment
-    • Custom module development tailored to unique business needs
-    • Complex data migration with zero data loss guarantee
-    • Multi-company, multi-currency, multi-language configurations
-    • Arabic localization and RTL interface optimization
-    
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    ════════════════════════════════════════════════════════════════════
+    Senior Odoo Developer & ERP Architect serving the MENA region.
+    ════════════════════════════════════════════════════════════════════
     """
-    
-    # ──────────────────────────────────────────────────────────────
-    # INITIALIZATION
-    # ──────────────────────────────────────────────────────────────
-    
+
     def __init__(self):
-        self.name = "Ibrahim Elmasry"
-        self.title = "Senior Odoo Developer | ERP Architect"
-        self.location = "Cairo, Egypt"
+        self.name         = "Ibrahim Elmasry"
+        self.title        = "Senior Odoo Developer | ERP Architect"
+        self.location     = "Cairo, Egypt"
         self.availability = "Open to new opportunities"
-        
-        # Core metrics
-        self._experience_years = 5
-        self._projects_completed = 54
-        self._client_retention_rate = 99.0
-        self._countries_served = 6
-        
-    # ──────────────────────────────────────────────────────────────
-    # PROPERTIES - CORE TECHNOLOGIES
-    # ──────────────────────────────────────────────────────────────
-    
-    @property
-    def experience_years(self) -> int:
-        return self._experience_years
-    
-    @property
-    def projects_completed(self) -> int:
-        return self._projects_completed
-    
-    @property
-    def success_rate(self) -> float:
-        return 98.5
-    
+        self.experience   = 5
+        self.projects     = 54
+        self.clients      = 45
+        self.countries    = 6
+        self.industries   = 18
+        self.retention    = 99.0
+        self.on_time      = 98.0
+        self.rating       = 9.8
+
+    # ── STACK ──────────────────────────────────────────────────────
     @property
     def core_technologies(self) -> List[Technology]:
-        """Primary technical expertise stack with proficiency levels"""
         return [
-            Technology("Odoo 15/16/17/18", SkillLevel.EXPERT, 5, "ERP"),
-            Technology("Python 3.x", SkillLevel.EXPERT, 6, "Language"),
-            Technology("PostgreSQL", SkillLevel.EXPERT, 5, "Database"),
-            Technology("XML/QWeb", SkillLevel.EXPERT, 5, "Template"),
-            Technology("JavaScript", SkillLevel.ADVANCED, 4, "Frontend"),
-            Technology("Django", SkillLevel.ADVANCED, 3, "Framework"),
-            Technology("FastAPI", SkillLevel.INTERMEDIATE, 2, "API"),
-            Technology("Redis", SkillLevel.ADVANCED, 3, "Cache"),
-            Technology("Docker", SkillLevel.ADVANCED, 3, "DevOps"),
-            Technology("Git", SkillLevel.EXPERT, 5, "Version Control"),
-            Technology("Linux/Bash", SkillLevel.ADVANCED, 4, "OS"),
-            Technology("Nginx", SkillLevel.INTERMEDIATE, 2, "Server"),
+            Technology("Odoo 15/16/17/18", SkillLevel.EXPERT,       5, "ERP"),
+            Technology("Python 3.x",        SkillLevel.EXPERT,       6, "Language"),
+            Technology("PostgreSQL",        SkillLevel.EXPERT,       5, "Database"),
+            Technology("XML / QWeb",        SkillLevel.EXPERT,       5, "Template"),
+            Technology("JavaScript",        SkillLevel.ADVANCED,     4, "Frontend"),
+            Technology("Django",            SkillLevel.ADVANCED,     3, "Framework"),
+            Technology("FastAPI",           SkillLevel.INTERMEDIATE, 2, "API"),
+            Technology("Redis",             SkillLevel.ADVANCED,     3, "Cache"),
+            Technology("Docker",            SkillLevel.ADVANCED,     3, "DevOps"),
+            Technology("Git",               SkillLevel.EXPERT,       5, "VCS"),
+            Technology("Linux / Bash",      SkillLevel.ADVANCED,     4, "OS"),
+            Technology("Nginx",             SkillLevel.INTERMEDIATE, 2, "Server"),
         ]
-    
-    # ──────────────────────────────────────────────────────────────
-    # SPECIALIZATIONS
-    # ──────────────────────────────────────────────────────────────
-    
+
+    # ── SPECIALIZATIONS ────────────────────────────────────────────
     @property
     def specializations(self) -> Dict[str, List[str]]:
-        """Deep domain expertise areas"""
         return {
             "ERP Implementation": [
-                "Full-cycle deployment",
-                "Requirements analysis",
-                "Solution architecture",
-                "User training",
-                "Go-live support",
-                "Post-implementation review",
+                "Full-cycle deployment", "Requirements analysis",
+                "Solution architecture", "User training",
+                "Go-live support", "Post-implementation review",
             ],
             "Custom Development": [
-                "Custom modules (Odoo)",
-                "API integrations (REST/SOAP)",
-                "Workflow automation",
-                "Report generation (QWeb/PDF)",
-                "POS customization",
-                "Mobile responsive views",
+                "Custom Odoo modules", "API integrations (REST/SOAP)",
+                "Workflow automation", "QWeb / PDF reports",
+                "POS customization", "Mobile-responsive views",
             ],
             "Data Operations": [
-                "Legacy migration",
-                "Data cleansing",
-                "ETL processes",
-                "Validation & testing",
-                "Backup strategies",
-                "Disaster recovery",
+                "Legacy migration", "Data cleansing",
+                "ETL processes", "Validation & testing",
+                "Backup strategies", "Disaster recovery",
             ],
             "Regional Expertise": [
-                "Arabic localization",
-                "RTL interface design",
-                "Zakat/Tax compliance",
-                "Multi-currency setup",
-                "MENA market practices",
-                "Cultural adaptation",
+                "Arabic localization", "RTL interface design",
+                "Zakat / Tax compliance", "Multi-currency setup",
+                "MENA market practices", "Cultural adaptation",
             ],
         }
-    
-    # ──────────────────────────────────────────────────────────────
-    # INDUSTRIES SERVED
-    # ──────────────────────────────────────────────────────────────
-    
+
+    # ── INDUSTRIES ─────────────────────────────────────────────────
     @property
-    def industries(self) -> List[str]:
-        """Complete list of served industries"""
+    def industries_served(self) -> List[str]:
         return [
             "Non-Profit Foundations", "Libraries & Bookstores",
             "Manufacturing & Factories", "Construction & Contracting",
@@ -424,180 +364,131 @@ class IbrahimElmasry:
             "Sports & Entertainment", "Pharmaceuticals",
             "Home & Living", "Hospitality & Events",
         ]
-    
-    # ──────────────────────────────────────────────────────────────
-    # FEATURED PROJECTS
-    # ──────────────────────────────────────────────────────────────
-    
+
+    # ── FEATURED PROJECTS ──────────────────────────────────────────
     @property
     def featured_projects(self) -> List[ClientProject]:
-        """Showcase of most impactful implementations"""
         return [
             ClientProject(
-                id=53, name="Mohammed Bin Ahmed Al-Jumaih Foundation",
-                industry="Non-Profit Foundation", country="Saudi Arabia",
-                year=2024,
-                technologies_used=["Odoo 17", "Python", "PostgreSQL"],
-                scope_description="Complete donation management system with "
-                               "volunteer coordination and financial tracking",
-                client_satisfaction=10,
-                project_duration_weeks=12,
-                team_size=3,
+                53, "Mohammed Bin Ahmed Al-Jumaih Foundation",
+                "Non-Profit Foundation", "Saudi Arabia", 2024,
+                ["Odoo 17", "Python", "PostgreSQL"],
+                "Donation management + volunteer coordination + finance",
+                10, 12, 3,
             ),
             ClientProject(
-                id=54, name="Adlas Libraries",
-                industry="Libraries & Bookstores", country="Saudi Arabia",
-                year=2024,
-                technologies_used=["Odoo 17", "POS", "Multi-branch"],
-                scope_description="Multi-branch inventory management with "
-                               "advanced POS and supplier integration",
-                client_satisfaction=10,
-                project_duration_weeks=8,
-                team_size=2,
+                54, "Adlas Libraries",
+                "Libraries & Bookstores", "Saudi Arabia", 2024,
+                ["Odoo 17", "POS", "Multi-branch"],
+                "Multi-branch inventory + advanced POS + suppliers",
+                10, 8, 2,
             ),
             ClientProject(
-                id=17, name="Royal Star Plastic Industry",
-                industry="Manufacturing", country="Egypt",
-                year=2023,
-                technologies_used=["Odoo 16", "MRP", "Quality Control"],
-                scope_description="Production planning with BOM management "
-                               "and quality control workflows",
-                client_satisfaction=9,
-                project_duration_weeks=16,
-                team_size=4,
+                17, "Royal Star Plastic Industry",
+                "Manufacturing", "Egypt", 2023,
+                ["Odoo 16", "MRP", "Quality Control"],
+                "Production planning + BOM + QC workflows",
+                9, 16, 4,
             ),
         ]
-    
-    # ──────────────────────────────────────────────────────────────
-    # VALUE PROPOSITION
-    # ──────────────────────────────────────────────────────────────
-    
-    def get_value_proposition(self) -> Dict[str, str]:
-        """Why clients choose to work with me"""
+
+    # ── VALUE PROPOSITION ──────────────────────────────────────────
+    def value_proposition(self) -> Dict[str, str]:
         return {
-            "business_first": "Deep understanding of business needs before coding",
-            "scalable_architecture": "Solutions built to grow with your business",
-            "clean_code": "Maintainable, documented, best-practice codebase",
-            "future_proof": "Easy upgrades as requirements evolve",
-            "mena_expertise": "Deep knowledge of regional business practices",
-            "bilingual": "Full Arabic & English support and documentation",
-            "transparent": "Clear communication, no hidden costs",
-            "reliable": "98% on-time delivery rate",
-            "responsive": "< 24hr response time guaranteed",
-            "quality_focused": "Zero compromise on code quality",
+            "business_first":   "Business needs come before coding",
+            "scalable":         "Architecture built to grow with you",
+            "clean_code":       "Maintainable, documented, tested",
+            "future_proof":     "Easy upgrades as requirements evolve",
+            "mena_expertise":   "Deep regional business knowledge",
+            "bilingual":        "Full Arabic & English support",
+            "transparent":      "Clear communication, no hidden costs",
+            "reliable":         "98% on-time delivery record",
+            "responsive":       "Under 24h response time",
+            "quality_focused":  "Zero compromise on quality",
         }
-    
-    # ──────────────────────────────────────────────────────────────
-    # CONTACT INFO
-    # ──────────────────────────────────────────────────────────────
-    
-    def get_contact_info(self) -> Dict[str, str]:
-        """Professional contact information"""
+
+    # ── CONTACT ────────────────────────────────────────────────────
+    def contact(self) -> Dict[str, str]:
         return {
-            "email": "ibrahimelmasry631@gmail.com",
-            "linkedin": "linkedin.com/in/ibrahim-mahmoud-ibrahim",
-            "github": "github.com/Elmasry-631",
-            "location": "Cairo, Egypt (Serving MENA)",
+            "email":         "ibrahimelmasry631@gmail.com",
+            "linkedin":      "linkedin.com/in/ibrahim-mahmoud-ibrahim",
+            "github":        "github.com/Elmasry-631",
+            "location":      "Cairo, Egypt (Serving MENA)",
             "response_time": "< 24 hours",
-            "availability": "Open for projects & collaborations",
-            "languages": "Arabic (Native), English (Professional)",
-            "timezone": "GMT+2 (Cairo)",
+            "availability":  "Open for projects & collaborations",
+            "languages":     "Arabic (Native), English (Professional)",
+            "timezone":      "GMT+2 (Cairo)",
         }
-    
-    # ──────────────────────────────────────────────────────────────
-    # CAPABILITY CHECKER
-    # ──────────────────────────────────────────────────────────────
-    
+
+    # ── HELPERS ────────────────────────────────────────────────────
     def can_help_with(self, requirement: str) -> bool:
-        """Check if I can assist with a specific requirement"""
-        capabilities = [
+        caps = [
             "odoo", "erp", "customization", "migration", "integration",
             "automation", "pos", "inventory", "manufacturing", "accounting",
             "hr", "crm", "sales", "purchase", "arabic", "localization",
             "reporting", "api", "workflow", "multi-company", "multi-currency",
         ]
-        return any(cap in requirement.lower() for cap in capabilities)
-    
-    # ──────────────────────────────────────────────────────────────
-    # MOTIVATIONAL QUOTES
-    # ──────────────────────────────────────────────────────────────
-    
+        return any(c in requirement.lower() for c in caps)
+
     def generate_quote(self) -> str:
-        """Generate a random professional quote"""
-        quotes = [
-            "Every complex problem has a simple solution - it's elegant and scalable.",
+        return random.choice([
+            "Every complex problem has a simple solution — elegant and scalable.",
             "Good code solves today's problems; great code anticipates tomorrow's.",
-            "Automation isn't about replacing people - it's about empowering them.",
-            "The best ERP is invisible - it just works.",
+            "Automation isn't about replacing people — it's about empowering them.",
+            "The best ERP is invisible — it just works.",
             "Quality is not an act, it is a habit.",
             "Innovation distinguishes between a leader and a follower.",
-        ]
-        import random
-        return random.choice(quotes)
-    
-    # ──────────────────────────────────────────────────────────────
-    # MAGIC METHODS
-    # ──────────────────────────────────────────────────────────────
-    
+        ])
+
+    # ── MAGIC METHODS ──────────────────────────────────────────────
     def __repr__(self) -> str:
-        return (
-            f"<IbrahimElmasry: {self.title} | "
-            f"{self.projects_completed}+ Projects | "
-            f"{self.experience_years}+ Years | "
-            f"{self._countries_served} Countries>"
-        )
-    
+        return (f"<IbrahimElmasry: {self.title} | "
+                f"{self.projects}+ projects | {self.experience}y | "
+                f"{self.countries} countries>")
+
     def __str__(self) -> str:
-        return f"✅ {self.name} — Ready to transform your business!"
-    
-    def __call__(self, project_idea: str) -> str:
-        """Make instances callable for quick consultations"""
-        if self.can_help_with(project_idea):
-            return f"🚀 Let's build '{project_idea}' together! Contact me to start."
+        return f"✅ {self.name} — ready to transform your business!"
+
+    def __call__(self, idea: str) -> str:
+        if self.can_help_with(idea):
+            return f"🚀 Let's build '{idea}' together! Contact me to start."
         return f"💡 Interesting concept! Let's discuss how I can help."
-    
+
     def __len__(self) -> int:
-        """Return total projects completed"""
-        return self._projects_completed
+        return self.projects
 
 
-# ════════════════════════════════════════════════════════════════════════════════
-# INSTANTIATION & DEMO
-# ════════════════════════════════════════════════════════════════════════════════
+# ════════════════════════════════════════════════════════════════════════
+# DEMO
+# ════════════════════════════════════════════════════════════════════════
 
 if __name__ == "__main__":
-    # Create the expert instance
-    ibrahim = IbrahimElmasry()
-    
-    # Display info
-    print(ibrahim)
-    print(repr(ibrahim))
-    print(f"\nTotal Projects: {len(ibrahim)}")
-    print(f"\n{ibrahim.generate_quote()}")
-    
-    # Quick consultation demo
-    print(ibrahim("custom odoo module for inventory"))
-```
+    me = IbrahimElmasry()
+    print(me)
+    print(repr(me))
+    print(f"\nTotal Projects: {len(me)}")
+    print(f"\nQuote: {me.generate_quote()}")
+    print(f"\nConsultation: {me('custom odoo module for inventory')}")
 
-</div>
+    print("\n── Tech Stack ─────────────────────────────")
+    for t in me.core_technologies:
+        print(f"  {t.indicator} {t.name:<20} {t.proficiency_bar}  {t.years_experience}y")
+```
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 💎 VALUE PROPOSITION - ENHANCED WITH MORE DETAILS -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  VALUE PROPOSITION — MINDSET + PROMISE  ▓▓▓                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 💎 The Ibrahim Difference — Why 54+ Clients Trust Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 My Methodology
+</div>
 
 ```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1a1f40','primaryTextColor':'#fff','primaryBorderColor':'#58A6FF','lineColor':'#8957e5','fontFamily':'Georgia'}}}%%
 mindmap
   root((My Approach))
     Discovery
@@ -624,25 +515,33 @@ mindmap
       Team Training
       Documentation
       Bug Fixes
-      Enhancements
       Version Upgrades
 ```
+
+<div align="center">
+
+### 🤝 Partnership Promise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+| Commitment | Guarantee |
+|:-----------|:----------|
+| **Free Consultation** | Initial assessment at no cost |
+| **Transparent Pricing** | No hidden fees, ever |
+| **Code Quality** | Clean · documented · tested |
+| **On-Time Delivery** | 98% track record |
+| **Post-Launch Support** | 30 days included |
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Partnership Promise
-
 | Commitment | Guarantee |
-|:-----------|-----------|
-| **Free Consultation** | Initial assessment at no cost |
-| **Transparent Pricing** | No hidden fees ever |
-| **Code Quality** | Clean, documented, tested |
-| **On-Time Delivery** | 98% track record |
-| **Post-Launch Support** | Included in every project |
+|:-----------|:----------|
 | **Knowledge Transfer** | Full documentation provided |
-| **Responsive** | < 24hr response time |
-| **Satisfaction Guaranteed** | Unlimited revisions until happy |
+| **Responsiveness** | Under 24h response |
+| **Satisfaction** | Revisions until you're happy |
 | **Source Code** | Full ownership transfer |
 | **Maintenance** | 30-day free support included |
 
@@ -654,13 +553,13 @@ mindmap
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 🗺️ GEOGRAPHIC PRESENCE - ENHANCED MAP STYLE -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  MENA GEOGRAPHIC PRESENCE  ▓▓▓                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/l0HlNWNuGxWJL9HyA/giphy.gif" width="50" alt="Global"/> 🌍 MENA Market Presence
+## 🌍 MENA Market Presence
 
 <table>
 <tr>
@@ -675,13 +574,13 @@ mindmap
 <th>🇮🇶 Iraq</th>
 </tr>
 <tr>
-<td align="center">
+<td align="center" valign="top">
 
 ### 🏠 Primary Base
 **Cairo**
 
 | Metric | Value |
-|--------|-------|
+|:-------|:-----:|
 | Clients | **19** |
 | Industries | 12 |
 | Since | 2020 |
@@ -690,13 +589,13 @@ mindmap
 <img src="https://img.shields.io/badge/Growth-Stable-3B82F6?style=flat-square"/>
 
 </td>
-<td align="center">
+<td align="center" valign="top">
 
 ### 👑 Major Market
-**Riyadh, Jeddah, Dammam**
+**Riyadh · Jeddah · Dammam**
 
 | Metric | Value |
-|--------|-------|
+|:-------|:-----:|
 | Clients | **20** |
 | Industries | 14 |
 | Growth | 🔥 Hot |
@@ -705,13 +604,13 @@ mindmap
 <img src="https://img.shields.io/badge/Growth-Hot_Market-10B981?style=flat-square"/>
 
 </td>
-<td align="center">
+<td align="center" valign="top">
 
-### 🏙️ Growing Presence
-**Dubai, RAK**
+### 🏙️ Growing
+**Dubai · RAK**
 
 | Metric | Value |
-|--------|-------|
+|:-------|:-----:|
 | Clients | **4** |
 | Industries | 3 |
 | Potential | High |
@@ -720,13 +619,13 @@ mindmap
 <img src="https://img.shields.io/badge/Growth-Expanding-F59E0B?style=flat-square"/>
 
 </td>
-<td align="center">
+<td align="center" valign="top">
 
 ### 🏛️ Established
 **Doha**
 
 | Metric | Value |
-|--------|-------|
+|:-------|:-----:|
 | Clients | **9** |
 | Industries | 6 |
 | Stability | Strong |
@@ -735,28 +634,28 @@ mindmap
 <img src="https://img.shields.io/badge/Stability-Established-A855F7?style=flat-square"/>
 
 </td>
-<td align="center">
+<td align="center" valign="top">
 
 ### 🆕 New Entry
 **Amman**
 
 | Metric | Value |
-|--------|-------|
+|:-------|:-----:|
 | Clients | **1** |
 | Industries | 1 |
 | Outlook | Promising |
 | Status | 🟠 New |
 
-<img src="https://img.shields.io/badge/Status-New_EF4444?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-New-EF4444?style=flat-square"/>
 
 </td>
-<td align="center">
+<td align="center" valign="top">
 
 ### ✅ Active
 **Baghdad**
 
 | Metric | Value |
-|--------|-------|
+|:-------|:-----:|
 | Clients | **2** |
 | Industries | 2 |
 | Engagement | Active |
@@ -772,57 +671,68 @@ mindmap
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ TECH STACK - 3D CARDS WITH SKILL BARS -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  TECH ARSENAL — FULL SKILL MATRIX  ▓▓▓                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="Tech Stack"/> 🛠️ Technical Arsenal — Complete Skill Matrix
+## 🛠️ Technical Arsenal — Complete Skill Matrix
+
+### 💻 Programming Languages & Frameworks
 
 <table>
 <tr>
-<th colspan="4">Programming Languages & Frameworks</th>
-</tr>
-<tr>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-![Python](https://img.shields.io/badge/Python-EXPERT-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=16213e)
+**Python**
 
-```
-████████████████████░░ 95%
-```
-*OOP, Decorators, Async, Testing*
-
-</td>
-<td width="25%" align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ADVANCED-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=323330)
-
-```
-███████████████░░░░░░░ 75%
-```
-*ES6+, DOM, AJAX, jQuery*
-
-</td>
-<td width="25%" align="center">
-
-![Odoo](https://img.shields.io/badge/Odoo_15-18-EXPERT-875A7B?style=for-the-badge&logo=odoo&logoColor=white&labelColor=4d2d41)
+![Python](https://img.shields.io/badge/Python-EXPERT-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ```
 ████████████████████░░ 95%
 ```
-*MVC, Views, Security, ACL*
+
+<sub>OOP · Decorators · Async · Testing</sub>
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-![Django](https://img.shields.io/badge/Django-ADVANCED-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=041208)
+**JavaScript**
+
+![JS](https://img.shields.io/badge/JavaScript-ADVANCED-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ```
-███████████████░░░░░░░ 75%
+███████████████░░░░░░░ 80%
 ```
-*ORM, REST Framework, Admin*
+
+<sub>ES6+ · DOM · AJAX · jQuery</sub>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**Odoo 15–18**
+
+![Odoo](https://img.shields.io/badge/Odoo_15–18-EXPERT-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
+
+```
+████████████████████░░ 95%
+```
+
+<sub>MVC · Views · Security · ACL</sub>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**Django**
+
+![Django](https://img.shields.io/badge/Django-ADVANCED-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+```
+███████████████░░░░░░░ 80%
+```
+
+<sub>ORM · REST Framework · Admin</sub>
 
 </td>
 </tr>
@@ -832,12 +742,12 @@ mindmap
 
 <table>
 <tr>
-<th>Data Layer</th>
-<th>DevOps & Tools</th>
-<th>Odoo Specializations</th>
+<th>🗄️ Data Layer</th>
+<th>⚙️ DevOps & Tools</th>
+<th>🎯 Odoo Specializations</th>
 </tr>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EXPERT-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -848,30 +758,30 @@ mindmap
 ![Redis](https://img.shields.io/badge/Redis-ADVANCED-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ```
-███████████████░░░░░░░ 75%
+███████████████░░░░░░░ 80%
 ```
 
 ![SQLite](https://img.shields.io/badge/SQLite-KNOWN-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ```
-████████████░░░░░░░░░░ 55%
+████████████░░░░░░░░░░ 65%
 ```
 
-*Query Optimization, Indexing, Replication*
+<sub>Query Optimization · Indexing · Replication</sub>
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ![Docker](https://img.shields.io/badge/Docker-ADVANCED-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ```
-███████████████░░░░░░░ 75%
+███████████████░░░░░░░ 80%
 ```
 
 ![Linux](https://img.shields.io/badge/Linux-ADVANCED-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ```
-███████████████░░░░░░░ 75%
+███████████████░░░░░░░ 80%
 ```
 
 ![Git](https://img.shields.io/badge/Git-EXPERT-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -880,10 +790,10 @@ mindmap
 ████████████████████░░ 95%
 ```
 
-*CI/CD, Containerization, Shell Scripting*
+<sub>CI/CD · Containerization · Shell Scripting</sub>
 
 </td>
-<td width="34%" align="center">
+<td width="34%" align="center" valign="top">
 
 ![Custom Modules](https://img.shields.io/badge/Custom_Modules-EXPERT-58A6FF?style=for-the-badge)
 
@@ -897,22 +807,22 @@ mindmap
 ████████████████████░░ 95%
 ```
 
-![API Integration](https://img.shields.io/badge/API_Integration-EXPERT-58A6FF?style=for-the-badge)
+![API](https://img.shields.io/badge/API_Integration-EXPERT-58A6FF?style=for-the-badge)
 
 ```
 ████████████████████░░ 95%
 ```
 
-![Arabic L10n](https://img.shields.io/badge/Arabic_L10n-EXPERT-10B981?style=for-the-badge)
+![Arabic](https://img.shields.io/badge/Arabic_L10n-EXPERT-10B981?style=for-the-badge)
 
 ```
 ████████████████████░░ 95%
 ```
 
-![POS Solutions](https://img.shields.io/badge/POS_Solutions-ADVANCED-EF4444?style=for-the-badge)
+![POS](https://img.shields.io/badge/POS_Solutions-ADVANCED-EF4444?style=for-the-badge)
 
 ```
-███████████████░░░░░░░ 75%
+███████████████░░░░░░░ 80%
 ```
 
 </td>
@@ -923,490 +833,13 @@ mindmap
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 📋 COMPLETE PORTFOLIO - ALL 54 PROJECTS -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  SERVICES — FULL CATALOG  ▓▓▓                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="50" alt="Portfolio"/> 📋 Complete Portfolio — 54 Successful Implementations
-
-<details>
-<summary><b>🔍 Click to expand full client list (54 entries)</b></summary>
-<br/>
-
-<table>
-<tr>
-<th>#</th>
-<th>Client Name</th>
-<th>Industry</th>
-<th>📍 Country</th>
-<th>#</th>
-<th>Client Name</th>
-<th>Industry</th>
-<th>📍 Country</th>
-</tr>
-
-<!-- Row 1-13 -->
-<tr>
-<td><code>01</code></td>
-<td>Flexible Service for General Contracting</td>
-<td>🏗️ Construction</td>
-<td>🇸🇦 SA</td>
-<td><code>28</code></td>
-<td>Grove Restaurant</td>
-<td>🍽️ Food & Restaurant</td>
-<td>🇸🇦 SA</td>
-</tr>
-<tr>
-<td><code>02</code></td>
-<td>Monish</td>
-<td>🍽️ Food & Restaurant</td>
-<td>🇸🇦 SA</td>
-<td><code>29</code></td>
-<td>Palazzo Ballroom</td>
-<td>🎭 Hospitality</td>
-<td>🇸🇦 SA</td>
-</tr>
-<tr>
-<td><code>03</code></td>
-<td>Dam Construction LLC</td>
-<td>🏗️ Construction</td>
-<td>🇦🇪 AE</td>
-<td><code>30</code></td>
-<td>Holy Restaurant</td>
-<td>🍽️ Food & Restaurant</td>
-<td>🇸🇦 SA</td>
-</tr>
-<tr>
-<td><code>04</code></td>
-<td>Protect Ever</td>
-<td>🏥 Healthcare</td>
-<td>🇪🇬 EG</td>
-<td><code>31</code></td>
-<td>Saud Al-Turaif Establishment</td>
-<td>🏗️ Construction</td>
-<td>🇸🇦 SA</td>
-</tr>
-<tr>
-<td><code>05</code></td>
-<td>House Covers Industries</td>
-<td>🏠 Home & Living</td>
-<td>🇪🇬 EG</td>
-<td><code>32</code></td>
-<td>Islamic Bank Restaurant</td>
-<td>🍽️ Food & Restaurant</td>
-<td>🇸🇦 SA</td>
-</tr>
-<tr>
-<td><code>06</code></td>
-<td>Bonanza RAK</td>
-<td>⛽ Petroleum</td>
-<td>🇦🇪 AE</td>
-<td><code>33</code></td>
-<td>Al Muttahida Cotton Factory</td>
-<td>🏭 Manufacturing</td>
-<td>🇸🇦 SA</td>
-</tr>
-<tr>
-<td><code>07</code></td>
-<td>ILaw (UAE)</td>
-<td>⚖️ Legal</td>
-<td>🇦🇪 AE</td>
-<td><code>34</code></td>
-<td>Al Najmah Restaurant</td>
-<td>🍽️ Food & Restaurant</td>
-<td>🇸🇦 SA</td>
-</tr>
-<tr>
-<td><code>08</code></td>
-<td>Rose Palace</td>
-<td>🎭 Hospitality</td>
-<td>🇸🇦 SA</td>
-<td><code>35</code></td>
-<td>Ashal Hujuzat</td>
-<td>🎭 Hospitality</td>
-<td>🇸🇦 SA</td>
-</tr>
-<tr>
-<td><code>09</code></td>
-<td>Kholoud Al-Saadawi Factory</td>
-<td>🏭 Manufacturing</td>
-<td>🇸🇦 SA</td>
-<td><code>36</code></td>
-<td>Titan X</td>
-<td>⚽ Sports</td>
-<td>🇶🇦 QA</td>
-</tr>
-<tr>
-<td><code>10</code></td>
-<td>The Qaed Quality Leader</td>
-<td>⚖️ Legal</td>
-<td>🇸🇦 SA</td>
-<td><code>37</code></td>
-<td>Advanced Care</td>
-<td>🏥 Healthcare</td>
-<td>🇶🇦 QA</td>
-</tr>
-<tr>
-<td><code>11</code></td>
-<td>Galal Rahem Elmaghraby</td>
-<td>🍽️ Food & Restaurant</td>
-<td>🇸🇦 SA</td>
-<td><code>38</code></td>
-<td>Al Zhbya International</td>
-<td>👗 Fashion</td>
-<td>🇶🇦 QA</td>
-</tr>
-<tr>
-<td><code>12</code></td>
-<td>Neo Ship</td>
-<td>💻 Technology</td>
-<td>🇶🇦 QA</td>
-<td><code>39</code></td>
-<td>Amber</td>
-<td>🛒 Trading & Retail</td>
-<td>🇶🇦 QA</td>
-</tr>
-<tr>
-<td><code>13</code></td>
-<td>Romeya for Marketing</td>
-<td>👗 Fashion</td>
-<td>🇶🇦 QA</td>
-<td><code>40</code></td>
-<td>Golden Market for Trading</td>
-<td>🛒 Trading & Retail</td>
-<td>🇪🇬 EG</td>
-</tr>
-
-<!-- Row 14-27 -->
-<tr>
-<td><code>14</code></td>
-<td>Perla</td>
-<td>🛒 Trading & Retail</td>
-<td>🇶🇦 QA</td>
-<td><code>41</code></td>
-<td>Pure Supplies</td>
-<td>🛒 Trading & Retail</td>
-<td>🇪🇬 EG</td>
-</tr>
-<tr>
-<td><code>15</code></td>
-<td>Qatar Modern Factory for Tyres</td>
-<td>🏭 Manufacturing</td>
-<td>🇶🇦 QA</td>
-<td><code>42</code></td>
-<td>Chicken I Land Restaurant</td>
-<td>🍽️ Food & Restaurant</td>
-<td>🇪🇬 EG</td>
-</tr>
-<tr>
-<td><code>16</code></td>
-<td>Dalton</td>
-<td>🛒 Trading & Retail</td>
-<td>🇪🇬 EG</td>
-<td><code>43</code></td>
-<td>TOYOU Company</td>
-<td>💰 Finance</td>
-<td>🇪🇬 EG</td>
-</tr>
-<tr>
-<td><code>17</code></td>
-<td>Royal Star for Plastic Industry</td>
-<td>🏭 Manufacturing</td>
-<td>🇪🇬 EG</td>
-<td><code>44</code></td>
-<td>Vera Fashion</td>
-<td>👗 Fashion</td>
-<td>🇮🇶 IQ</td>
-</tr>
-<tr>
-<td><code>18</code></td>
-<td>Hummer Furniture Factory</td>
-<td>🏭 Manufacturing</td>
-<td>🇪🇬 EG</td>
-<td><code>45</code></td>
-<td>Innovadigits</td>
-<td>💻 Technology</td>
-<td>🇪🇬 EG</td>
-</tr>
-<tr>
-<td><code>19</code></td>
-<td>Qasr Almariyah</td>
-<td>🏨 Real Estate</td>
-<td>🇮🇶 IQ</td>
-<td><code>46</code></td>
-<td>Diamond Supply</td>
-<td>🛒 Trading & Retail</td>
-<td>🇸🇦 SA</td>
-</tr>
-<tr>
-<td><code>20</code></td>
-<td>Trie Oxygen (Dubai)</td>
-<td>🏭 Manufacturing</td>
-<td>🇦🇪 AE</td>
-<td><code>47</code></td>
-<td>Mid Core Farma</td>
-<td>💊 Pharma</td>
-<td>🇪🇬 EG</td>
-</tr>
-<tr>
-<td><code>21</code></td>
-<td>Soltan Elabtekar</td>
-<td>🛒 Trading & Retail</td>
-<td>🇪🇬 EG</td>
-<td><code>48</code></td>
-<td>Reach World</td>
-<td>🏨 Real Estate</td>
-<td>🇯🇴 JO</td>
-</tr>
-<tr>
-<td><code>22</code></td>
-<td>Traid Paint</td>
-<td>⛽ Petroleum</td>
-<td>🇪🇬 EG</td>
-<td><code>49</code></td>
-<td>Sarwa Life</td>
-<td>🛡️ Insurance</td>
-<td>🇪🇬 EG</td>
-</tr>
-<tr>
-<td><code>23</code></td>
-<td>Magawish Petroleum Company</td>
-<td>⛽ Petroleum</td>
-<td>🇪🇬 EG</td>
-<td><code>50</code></td>
-<td>Sarwa Insurance</td>
-<td>🛡️ Insurance</td>
-<td>🇪🇬 EG</td>
-</tr>
-<tr>
-<td><code>24</code></td>
-<td>Haitara</td>
-<td>🏗️ Construction</td>
-<td>🇶🇦 QA</td>
-<td><code>51</code></td>
-<td>Katra</td>
-<td>🏭 Manufacturing</td>
-<td>🇸🇦 SA</td>
-</tr>
-<tr>
-<td><code>25</code></td>
-<td>Alaz for Food Industry</td>
-<td>⛽ Petroleum</td>
-<td>🇪🇬 EG</td>
-<td><code>52</code></td>
-<td>Al-Tawreed Al-Masi</td>
-<td>🛒 Trading & Retail</td>
-<td>🇸🇦 SA</td>
-</tr>
-<tr>
-<td><code>26</code></td>
-<td>Izdehar</td>
-<td>⛽ Petroleum</td>
-<td>🇸🇦 SA</td>
-<td><code>53</code></td>
-<td>Panda Retail</td>
-<td>🛒 Trading & Retail</td>
-<td>🇪🇬 EG</td>
-</tr>
-<tr>
-<td><code>27</code></td>
-<td><strong>Mohammed Bin Ahmed Al-Jumaih Foundation</strong></td>
-<td><strong>🏛️ Non-Profit</strong></td>
-<td>🇸🇦 SA</td>
-<td><code>54</code></td>
-<td><strong>Adlas Libraries</strong></td>
-<td><strong>📚 Libraries</strong></td>
-<td>🇸🇦 SA</td>
-</tr>
-</table>
-
-</details>
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- ⭐ FEATURED CASE STUDIES - DEEP DIVE SUCCESS STORIES -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ⭐ Featured Case Studies — Deep Dive Into Success Stories
-
-<table>
-<tr>
-<td width="34%" valign="top">
-
-### 🏛️ Mohammed Bin Ahmed Al-Jumaih Foundation
-#### *Non-Profit Excellence*
-
-<img src="https://img.shields.io/badge/Saudi_Arabia-SA-16A34A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Foundation-Non_Profit-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Year-2024-DC2626?style=flat-square"/>
-<img src="https://img.shields.io/badge/Satisfaction-10%2F10-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Complexity-Enterprise-red?style=flat-square"/>
-
----
-
-**Challenge:**  
-Foundation needed comprehensive system to manage donations, volunteers, and financial operations while maintaining transparency.
-
-**Solution Implemented:**
-- ✅ Donation tracking portal with receipt generation
-- ✅ Volunteer management system with scheduling
-- ✅ Financial reporting dashboard for stakeholders
-- ✅ Multi-department workflow automation
-- ✅ Arabic/English bilingual interface
-- ✅ Zakat calculation integration
-
-**Results:**
-- 📈 60% reduction in administrative overhead
-- 📊 Real-time visibility into all operations
-- ✅ 100% audit trail compliance
-- ⏱️ Delivered in 12 weeks with 3-person team
-
-</td>
-<td width="33%" valign="top">
-
-### 📚 Adlas Libraries
-#### *Retail Innovation*
-
-<img src="https://img.shields.io/badge/Saudi_Arabia-SA-16A34A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Retail-Libraries-9333EA?style=flat-square"/>
-<img src="https://img.shields.io/badge/Year-2024-DC2626?style=flat-square"/>
-<img src="https://img.shields.io/badge/Satisfaction-10%2F10-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Complexity-Advanced-yellow?style=flat-square"/>
-
----
-
-**Challenge:**  
-Multi-branch library network struggling with inventory accuracy and real-time stock visibility across locations.
-
-**Solution Implemented:**
-- ✅ Centralized multi-branch inventory system
-- ✅ Advanced POS with barcode scanning
-- ✅ Supplier procurement automation
-- ✅ Customer loyalty program integration
-- ✅ Real-time stock synchronization
-- ✅ Automated reorder point alerts
-
-**Results:**
-- 📈 95% improvement in inventory accuracy
-- ⚡ 40% faster checkout process
-- 🔄 Zero stockouts since implementation
-- ⏱️ Delivered in 8 weeks with 2-person team
-
-</td>
-<td width="33%" valign="top">
-
-### 🏭 Royal Star Plastic Industry
-#### *Manufacturing Power*
-
-<img src="https://img.shields.io/badge/Egypt-EG-EAB308?style=flat-square"/>
-<img src="https://img.shields.io/badge/Manufacturing-Plastic-F97316?style=flat-square"/>
-<img src="https://img.shields.io/badge/Year-2023-059669?style=flat-square"/>
-<img src="https://img.shields.io/badge/Satisfaction-9%2F10-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Complexity-Enterprise-red?style=flat-square"/>
-
----
-
-**Challenge:**  
-Factory needed complete production control from raw materials to finished goods with accurate costing.
-
-**Solution Implemented:**
-- ✅ Production planning & scheduling module
-- ✅ Quality control checkpoints system
-- ✅ BOM (Bill of Materials) management
-- ✅ Raw material tracking & consumption
-- ✅ Automated cost calculations per unit
-- ✅ Work center efficiency monitoring
-
-**Results:**
-- 📈 30% increase in production output
-- 💰 15% reduction in material waste
-- ⏱️ 25% faster production cycles
-- ⏱️ Delivered in 16 weeks with 4-person team
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 🔧 DEVELOPMENT LIFECYCLE - VISUAL PIPELINE -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🔧 Development Lifecycle — From Idea to Production
-
-```mermaid
-flowchart LR
-    subgraph DISCOVERY["📋 PHASE 1: Discovery & Analysis"]
-        direction TB
-        D1[Initial Consultation] --> D2[Requirements Gathering]
-        D2 --> D3[Business Process Mapping]
-        D3 --> D4[Gap Analysis]
-        D4 --> D5[Solution Proposal]
-    end
-    
-    subgraph DESIGN["🎨 PHASE 2: Architecture & Design"]
-        direction TB
-        DS1[Technical Architecture] --> DS2[Database Schema]
-        DS2 --> DS3[UI/UX Wireframes]
-        DS3 --> DS4[API Specifications]
-        DS4 --> DS5[Development Plan]
-    end
-    
-    subgraph BUILD["💻 PHASE 3: Development"]
-        direction TB
-        B1[Environment Setup] --> B2[Core Module Dev]
-        B2 --> B3[Customizations]
-        B3 --> B4[Integrations]
-        B4 --> B5[Testing]
-    end
-    
-    subgraph DEPLOY["🚀 PHASE 4: Deployment"]
-        direction TB
-        DP1[Staging Server] --> DP2[UAT Testing]
-        DP2 --> DP3[Data Migration]
-        DP3 --> DP4[Production Launch]
-        DP4 --> DP5[Monitoring Setup]
-    end
-    
-    subgraph SUPPORT["🔄 PHASE 5: Support & Growth"]
-        direction TB
-        S1[Team Training] --> S2[Documentation]
-        S2 --> S3[Bug Fixes]
-        S3 --> S4[Enhancements]
-        S4 --> S5[Version Upgrades]
-    end
-    
-    DISCOVERY --> DESIGN --> BUILD --> DEPLOY --> SUPPORT
-
-    style DISCOVERY fill:#1a365d,color:#fff,stroke:#3182ce
-    style DESIGN fill:#234e52,color:#fff,stroke:#319795
-    style BUILD fill:#44337a,color:#fff,#fff,stroke:#805ad5
-    style DEPLOY fill:#742a2a,color:#fff,stroke:#e53e3e
-    style SUPPORT fill:#22543d,color:#fff,stroke:#38a169
-```
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 SERVICES - COMPLETE OFFERING CATALOG -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" alt="Services"/> What I Deliver — Complete Service Catalog
+## 🚀 What I Deliver — Complete Service Catalog
 
 <table>
 <tr>
@@ -1419,16 +852,16 @@ flowchart LR
 - **Full-cycle deployment**
   - Requirements to go-live
   - Best practice configuration
-  
+
 - **Module configuration**
-  - Sales, Purchase, Inventory
-  - Accounting, HR, CRM
-  - Manufacturing, POS
-  
+  - Sales · Purchase · Inventory
+  - Accounting · HR · CRM
+  - Manufacturing · POS
+
 - **User training**
   - Role-based sessions
   - Comprehensive manuals
-  
+
 - **Post-launch support**
   - 30-day included support
   - Issue resolution SLA
@@ -1444,18 +877,18 @@ flowchart LR
 - **Custom Modules**
   - From scratch development
   - Odoo App Store ready
-  
+
 - **Workflow Automation**
   - Approval chains
   - Automated notifications
-  
+
 - **Report Generation**
   - QWeb templates
-  - PDF/Excel exports
-  
+  - PDF / Excel exports
+
 - **UI Enhancements**
   - Custom views
-  - Mobile responsive
+  - Mobile-responsive
 
 </details>
 </td>
@@ -1466,18 +899,18 @@ flowchart LR
 <summary>View Details</summary>
 
 - **Payment Gateways**
-  - PayMob, Stripe
+  - PayMob · Stripe
   - Local providers
-  
+
 - **Third-party APIs**
   - SMS services
   - Shipping carriers
   - E-government portals
-  
+
 - **E-commerce**
-  - Shopify, WooCommerce
+  - Shopify · WooCommerce
   - Magento integration
-  
+
 - **Communication**
   - Email marketing
   - WhatsApp Business
@@ -1491,19 +924,19 @@ flowchart LR
 <summary>View Details</summary>
 
 - **Legacy Systems**
-  - Excel/CSV imports
+  - Excel / CSV imports
   - Old ERP data
   - Database migration
-  
+
 - **Data Cleansing**
   - Duplicate removal
   - Validation rules
   - Format standardization
-  
+
 - **Validation**
   - Pre-migration audits
   - Data integrity checks
-  
+
 - **Post-Migration**
   - Reconciliation reports
   - Verification sign-off
@@ -1517,40 +950,28 @@ flowchart LR
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="25%" align="center">
 
 ### ⚡ Process Automation
-- Workflow optimization
-- Approval hierarchies
-- Scheduled actions
-- Automated reporting
+<sub>Workflow optimization<br/>Approval hierarchies<br/>Scheduled actions<br/>Automated reporting</sub>
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="25%" align="center">
 
 ### 🛠️ Support Plans
-- Bug fixes (SLA-based)
-- Performance tuning
-- Security patches
-- Version upgrades
+<sub>Bug fixes (SLA-based)<br/>Performance tuning<br/>Security patches<br/>Version upgrades</sub>
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="25%" align="center">
 
 ### 🏢 Enterprise Features
-- Multi-company setup
-- Inter-company flows
-- Consolidated reporting
-- Currency management
+<sub>Multi-company setup<br/>Inter-company flows<br/>Consolidated reporting<br/>Currency management</sub>
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="25%" align="center">
 
 ### 🛒 POS Solutions
-- Hardware integration
-- Offline mode
-- Kitchen displays
-- Receipt customization
+<sub>Hardware integration<br/>Offline mode<br/>Kitchen displays<br/>Receipt customization</sub>
 
 </td>
 </tr>
@@ -1560,13 +981,13 @@ flowchart LR
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 ACHIEVEMENTS TIMELINE - MILESTONES & RECOGNITION -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  ACHIEVEMENTS TIMELINE + CERTIFICATIONS  ▓▓▓                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🏆 Achievements Timeline — Key Milestones
+## 🏆 Achievements Timeline
 
 <table>
 <tr>
@@ -1575,12 +996,14 @@ flowchart LR
 ### 📅 Career Highlights
 
 | Year | Achievement | Impact |
-|------|-------------|--------|
+|:----:|:------------|:-------|
 | 2020 | Started Freelance Journey | 🚀 Day 1 |
 | 2021 | First International Client | 🌍 Saudi Expansion |
 | 2022 | 20+ Projects Completed | 📈 Rapid Growth |
 | 2023 | Multi-Country Operations | 🌐 5 Countries |
 | 2024 | 54+ Projects Delivered | 👑 Industry Recognition |
+| 2025 | Odoo 18 & AI Integration | 🤖 Innovation Shift |
+| 2026 | Building SaaS ERP Platform | 🌟 Next-Gen Solutions |
 
 </td>
 <td width="50%" valign="top">
@@ -1590,13 +1013,13 @@ flowchart LR
 <p align="center">
 <img src="https://img.shields.io/badge/Odoo-Certified_Partner-875A7B?style=for-the-badge&logo=odoo&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-Advanced_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/ERP-Implementation_Specialist-4169E1?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/ERP-Implementation_Specialist-4169E1?style=for-the-badge"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Automation-Expert_Level-F59E0B?style=for-the-badge&logo=automation&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Integration-Specialist-10B981?style=for-the-badge&logo=api&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Migration-Certified-EC4899?style=for-the-badge&logo=data&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-Expert_Level-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Integration-Specialist-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Migration-Certified-EC4899?style=for-the-badge"/>
 </p>
 
 </td>
@@ -1605,50 +1028,101 @@ flowchart LR
 
 </div>
 
----
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 💬 TESTIMONIALS - CLIENT VOICES -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  FEATURED CASE STUDIES  ▓▓▓                                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 💬 What Clients Say About Working With Me
+## ⭐ Featured Case Studies
 
 <table>
 <tr>
-<td width="50%">
+<td width="34%" valign="top">
 
-<blockquote>
-<p><i>"Ibrahim transformed our entire operation from day one. His deep understanding of the Saudi market combined with his Odoo expertise saved us months of development time and significant costs."</i></p>
-<footer><b>— CEO</b><br/><sub>Major Saudi Retail Chain | 🇸🇦 Riyadh</sub></footer>
-</blockquote>
+### 🏛️ Mohammed Bin Ahmed Al-Jumaih Foundation
+#### *Non-Profit Excellence*
+
+<img src="https://img.shields.io/badge/Saudi_Arabia-SA-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Non_Profit-Foundation-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Year-2024-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/Satisfaction-10%2F10-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Complexity-Enterprise-red?style=flat-square"/>
+
+**Challenge**
+Foundation needed comprehensive system to manage donations, volunteers and finances with full transparency.
+
+**Delivered**
+- ✅ Donation tracking portal + receipts
+- ✅ Volunteer management + scheduling
+- ✅ Financial dashboard for stakeholders
+- ✅ Multi-department workflow automation
+- ✅ Bilingual AR/EN interface
+- ✅ Zakat calculation integration
+
+**Impact**
+- 📈 60% less admin overhead
+- 📊 Real-time operational visibility
+- ✅ 100% audit trail compliance
+- ⏱️ 12 weeks · 3-person team
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-<blockquote>
-<p><i>"Professional, responsive, and consistently delivers quality work on time. His ability to understand complex business requirements and translate them into working solutions is remarkable."</i></p>
-<footer><b>— IT Director</b><br/><sub>Construction Company | 🇦🇪 Dubai</sub></footer>
-</blockquote>
+### 📚 Adlas Libraries
+#### *Retail Innovation*
+
+<img src="https://img.shields.io/badge/Saudi_Arabia-SA-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Retail-Libraries-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Year-2024-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/Satisfaction-10%2F10-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Complexity-Advanced-yellow?style=flat-square"/>
+
+**Challenge**
+Multi-branch network with poor inventory accuracy and no real-time stock visibility.
+
+**Delivered**
+- ✅ Centralized multi-branch inventory
+- ✅ Advanced POS + barcode scanning
+- ✅ Supplier procurement automation
+- ✅ Customer loyalty integration
+- ✅ Real-time stock sync
+- ✅ Auto reorder-point alerts
+
+**Impact**
+- 📈 95% inventory accuracy
+- ⚡ 40% faster checkout
+- 🔄 Zero stockouts since launch
+- ⏱️ 8 weeks · 2-person team
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-<blockquote>
-<p><i>"The non-profit foundation implementation was flawless. Ibrahim handled donation tracking, volunteer management, and financial reporting with exceptional attention to detail."</i></p>
-<footer><b>— Operations Manager</b><br/><sub>Mohammed Al-Jumaih Foundation | 🇸🇦 SA</sub></footer>
-</blockquote>
+### 🏭 Royal Star Plastic Industry
+#### *Manufacturing Power*
 
-</td>
-<td width="50%">
+<img src="https://img.shields.io/badge/Egypt-EG-EAB308?style=flat-square"/>
+<img src="https://img.shields.io/badge/Manufacturing-Plastic-F97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/Year-2023-059669?style=flat-square"/>
+<img src="https://img.shields.io/badge/Satisfaction-9%2F10-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Complexity-Enterprise-red?style=flat-square"/>
 
-<blockquote>
-<p><i>"Our multi-branch library network is now fully integrated thanks to the custom solution built for us. Inventory accuracy improved by 95% after implementation."</i></p>
-<footer><b>— General Manager</b><br/><sub>Adlas Libraries | 🇸🇦 SA</sub></footer>
-</blockquote>
+**Challenge**
+Factory needed full production control from raw material to finished goods with accurate costing.
+
+**Delivered**
+- ✅ Production planning & scheduling
+- ✅ Quality control checkpoints
+- ✅ BOM management
+- ✅ Raw material tracking
+- ✅ Automated cost per unit
+- ✅ Work-center efficiency
+
+**Impact**
+- 📈 30% more output
+- 💰 15% less material waste
+- ⏱️ 25% faster cycles
+- ⏱️ 16 weeks · 4-person team
 
 </td>
 </tr>
@@ -1658,63 +1132,211 @@ flowchart LR
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB ACTIVITY - ULTRA ANALYTICS -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  COMPLETE PORTFOLIO  ▓▓▓                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><b>📋 &nbsp; View Full Portfolio — 54 Client Deliveries &nbsp; (click to expand)</b></summary>
+<br/>
+
+| # | Client | Industry | 🌍 | # | Client | Industry | 🌍 |
+|:--|:-------|:---------|:--:|:--|:-------|:---------|:--:|
+| 01 | Flexible Service Contracting | 🏗️ Construction | SA | 28 | Grove Restaurant | 🍽️ Food | SA |
+| 02 | Monish | 🍽️ Food | SA | 29 | Palazzo Ballroom | 🎭 Hospitality | SA |
+| 03 | Dam Construction LLC | 🏗️ Construction | AE | 30 | Holy Restaurant | 🍽️ Food | SA |
+| 04 | Protect Ever | 🏥 Healthcare | EG | 31 | Saud Al-Turaif Est. | 🏗️ Construction | SA |
+| 05 | House Covers Industries | 🏠 Home | EG | 32 | Islamic Bank Restaurant | 🍽️ Food | SA |
+| 06 | Bonanza RAK | ⛽ Petroleum | AE | 33 | Al Muttahida Cotton | 🏭 Manufacturing | SA |
+| 07 | ILaw | ⚖️ Legal | AE | 34 | Al Najmah Restaurant | 🍽️ Food | SA |
+| 08 | Rose Palace | 🎭 Hospitality | SA | 35 | Ashal Hujuzat | 🎭 Hospitality | SA |
+| 09 | Kholoud Al-Saadawi Factory | 🏭 Manufacturing | SA | 36 | Titan X | ⚽ Sports | QA |
+| 10 | The Qaed Quality Leader | ⚖️ Legal | SA | 37 | Advanced Care | 🏥 Healthcare | QA |
+| 11 | Galal Rahem Elmaghraby | 🍽️ Food | SA | 38 | Al Zhbya International | 👗 Fashion | QA |
+| 12 | Neo Ship | 💻 Technology | QA | 39 | Amber | 🛒 Retail | QA |
+| 13 | Romeya Marketing | 👗 Fashion | QA | 40 | Golden Market | 🛒 Retail | EG |
+| 14 | Perla | 🛒 Retail | QA | 41 | Pure Supplies | 🛒 Retail | EG |
+| 15 | Qatar Modern Tyres | 🏭 Manufacturing | QA | 42 | Chicken I Land | 🍽️ Food | EG |
+| 16 | Dalton | 🛒 Retail | EG | 43 | TOYOU Company | 💰 Finance | EG |
+| 17 | Royal Star Plastic | 🏭 Manufacturing | EG | 44 | Vera Fashion | 👗 Fashion | IQ |
+| 18 | Hummer Furniture Factory | 🏭 Manufacturing | EG | 45 | Innovadigits | 💻 Technology | EG |
+| 19 | Qasr Almariyah | 🏨 Real Estate | IQ | 46 | Diamond Supply | 🛒 Retail | SA |
+| 20 | Trie Oxygen | 🏭 Manufacturing | AE | 47 | Mid Core Farma | 💊 Pharma | EG |
+| 21 | Soltan Elabtekar | 🛒 Retail | EG | 48 | Reach World | 🏨 Real Estate | JO |
+| 22 | Traid Paint | ⛽ Petroleum | EG | 49 | Sarwa Life | 🛡️ Insurance | EG |
+| 23 | Magawish Petroleum | ⛽ Petroleum | EG | 50 | Sarwa Insurance | 🛡️ Insurance | EG |
+| 24 | Haitara | 🏗️ Construction | QA | 51 | Katra | 🏭 Manufacturing | SA |
+| 25 | Alaz Food Industry | ⛽ Petroleum | EG | 52 | Al-Tawreed Al-Masi | 🛒 Retail | SA |
+| 26 | Izdehar | ⛽ Petroleum | SA | 53 | **Al-Jumaih Foundation** | 🏛️ Non-Profit | SA |
+| 27 | Panda Retail | 🛒 Retail | EG | 54 | **Adlas Libraries** | 📚 Libraries | SA |
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  DEVELOPMENT LIFECYCLE  ▓▓▓                                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/jdPMeyv9nIY4Ze6L4k/giphy.gif" width="50" alt="Stats"/> GitHub Activity & Contribution Analytics
+## 🔧 Development Lifecycle — Idea to Production
 
-<img src="https://github-readme-stats.vercel.app/api?username=Elmasry-631&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&include_all_commits=true&count_private=true&hide=issues,prs&border_radius=20&show=reviews,discussions_started,discussions_answered,prs_merged,contributions" width="49%" alt="GitHub Stats"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmasry-631&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=20" width="49%" alt="Top Languages"/>
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1a1f40','primaryTextColor':'#fff','primaryBorderColor':'#58A6FF','lineColor':'#58A6FF'}}}%%
+flowchart LR
+    subgraph D["📋 PHASE 1 · Discovery"]
+        direction TB
+        D1[Initial Consultation] --> D2[Requirements]
+        D2 --> D3[Process Mapping]
+        D3 --> D4[Gap Analysis]
+        D4 --> D5[Proposal]
+    end
 
-<br/>
+    subgraph DE["🎨 PHASE 2 · Design"]
+        direction TB
+        DE1[Architecture] --> DE2[DB Schema]
+        DE2 --> DE3[Wireframes]
+        DE3 --> DE4[API Specs]
+        DE4 --> DE5[Dev Plan]
+    end
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Elmasry-631&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=20&date_format=%5B%25Y%2F%25m%2F%25d%5D" width="98%" alt="Streak Stats"/>
+    subgraph B["💻 PHASE 3 · Build"]
+        direction TB
+        B1[Env Setup] --> B2[Core Dev]
+        B2 --> B3[Customizations]
+        B3 --> B4[Integrations]
+        B4 --> B5[Testing]
+    end
 
-<br/>
+    subgraph DP["🚀 PHASE 4 · Deploy"]
+        direction TB
+        DP1[Staging] --> DP2[UAT]
+        DP2 --> DP3[Data Migration]
+        DP3 --> DP4[Production Launch]
+        DP4 --> DP5[Monitoring]
+    end
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elmasry-631&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&title_color=58A6FF&radius=20" width="100%" alt="Activity Graph"/>
+    subgraph S["🔄 PHASE 5 · Support"]
+        direction TB
+        S1[Training] --> S2[Docs]
+        S2 --> S3[Bug Fixes]
+        S3 --> S4[Enhancements]
+        S4 --> S5[Upgrades]
+    end
+
+    D --> DE --> B --> DP --> S
+
+    style D  fill:#1a365d,color:#fff,stroke:#3182ce
+    style DE fill:#234e52,color:#fff,stroke:#319795
+    style B  fill:#44337a,color:#fff,stroke:#805ad5
+    style DP fill:#742a2a,color:#fff,stroke:#e53e3e
+    style S  fill:#22543d,color:#fff,stroke:#38a169
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  TESTIMONIALS  ▓▓▓                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 💬 What Clients Say
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+> **"** Ibrahim transformed our entire operation from day one. His deep understanding of the Saudi market combined with his Odoo expertise saved us months of development time and significant costs. **"**
+>
+> <sub>— **CEO** · Major Saudi Retail Chain · 🇸🇦 Riyadh</sub>
+
+</td>
+<td width="50%" valign="top">
+
+> **"** Professional, responsive, and consistently delivers quality work on time. His ability to understand complex business requirements and translate them into working solutions is remarkable. **"**
+>
+> <sub>— **IT Director** · Construction Company · 🇦🇪 Dubai</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+> **"** The non-profit foundation implementation was flawless. Ibrahim handled donation tracking, volunteer management, and financial reporting with exceptional attention to detail. **"**
+>
+> <sub>— **Operations Manager** · Al-Jumaih Foundation · 🇸🇦</sub>
+
+</td>
+<td width="50%" valign="top">
+
+> **"** Our multi-branch library network is now fully integrated thanks to the custom solution built for us. Inventory accuracy improved by 95% after implementation. **"**
+>
+> <sub>— **General Manager** · Adlas Libraries · 🇸🇦</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE - ANIMATED -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  GITHUB ANALYTICS  ▓▓▓                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🐍 Contribution Snake Animation
+## 📊 GitHub Activity & Contribution Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Elmasry-631&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=8957E5&text_color=c9d1d9&ring_color=58A6FF&include_all_commits=true&count_private=true&border_radius=14" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmasry-631&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=14&langs_count=8" alt="Top Languages"/>
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=Elmasry-631&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=8957E5&fire=F472B6&currStreakLabel=58A6FF&border_radius=14" alt="Streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Elmasry-631&bg_color=0d1117&color=58A6FF&line=8957E5&point=F472B6&area=true&hide_border=true&radius=14" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  SNAKE  ▓▓▓                                                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elmasry-631/Elmasry-631/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elmasry-631/Elmasry-631/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elmasry-631/Elmasry-631/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Elmasry-631/Elmasry-631/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elmasry-631/Elmasry-631/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/Elmasry-631/Elmasry-631/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 TROPHIES & ACHIEVEMENT BADGES -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  TROPHIES  ▓▓▓                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Elmasry-631&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&row=1&title=MultiLanguage,LongTimeCommit,Stars,PullRequest,Followers,Issues,Reviews" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Elmasry-631&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&row=1" alt="Trophies"/>
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 CURRENT FOCUS & STRATEGIC ROADMAP -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  ROADMAP  ▓▓▓                                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -1724,29 +1346,29 @@ flowchart LR
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 📈 Priority 1: Odoo Migration Expert
-**Helping businesses upgrade seamlessly**
+### 📈 Priority 1
+**Odoo Migration Expert**
 
 <img src="https://img.shields.io/badge/Status-In_Progress-06B6D4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Priority-Critical-EF4444?style=flat-square"/>
 
-**Goals:**
+**Goals**
+- [x] Master Odoo 17 features
 - [ ] Master Odoo 18/19 features
 - [ ] Build migration toolkit
-- [ ] Complete 10 migrations in 2025
-- [ ] Create migration guides
+- [ ] Ship 10 migrations in 2026
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🤖 Priority 2: AI Integration
-**Exploring AI-powered ERP features**
+### 🤖 Priority 2
+**AI-Enhanced ERP**
 
 <img src="https://img.shields.io/badge/Status-Research-8B5CF6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Priority-High-F59E0B?style=flat-square"/>
 
-**Goals:**
-- [ ] Research AI use cases in ERP
+**Goals**
+- [x] Research AI use cases
 - [ ] Pilot ML-based forecasting
 - [ ] Chatbot integration
 - [ ] Smart recommendations
@@ -1754,13 +1376,13 @@ flowchart LR
 </td>
 <td width="33%" valign="top" align="center">
 
-### ☁️ Priority 3: SaaS Platform
-**Cloud-native multi-tenant solutions**
+### ☁️ Priority 3
+**Multi-Tenant SaaS**
 
 <img src="https://img.shields.io/badge/Status-Planning-10B981?style=flat-square"/>
 <img src="https://img.shields.io/badge/Priority-Medium-84CC16?style=flat-square"/>
 
-**Goals:**
+**Goals**
 - [ ] Design architecture
 - [ ] Build MVP
 - [ ] Onboard first clients
@@ -1774,101 +1396,117 @@ flowchart LR
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 🤝 CALL TO ACTION - CONTACT ME NOW -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  FAQ  ▓▓▓                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="50" alt="Connect"/> Ready to Transform Your Business?
+## ❓ Frequently Asked Questions
 
-<p align="center">
-  <i>Let's discuss how Odoo can streamline your operations, automate your workflows, and drive sustainable growth.</i>
-</p>
+</div>
 
-<p align="center">
-  <b>🆓 Free Initial Consultation</b> • <b>✨ Custom Solutions</b> • <b>🔄 Ongoing Support</b>
-</p>
+<details>
+<summary><b>⏱️ What's your typical project timeline?</b></summary>
+<br/>
+
+**4–6 weeks** for standard implementations, **8–16 weeks** for enterprise-scale projects. Timelines are agreed upfront and tracked weekly.
+</details>
+
+<details>
+<summary><b>🌍 Do you handle Arabic localization?</b></summary>
+<br/>
+
+Yes — full **RTL support**, **Zakat calculation**, **MENA tax compliance**, and Arabic-translated UI built into every deployment.
+</details>
+
+<details>
+<summary><b>🔢 Which Odoo versions do you support?</b></summary>
+<br/>
+
+**Odoo 15, 16, 17, and 18** — both **Community** and **Enterprise** editions.
+</details>
+
+<details>
+<summary><b>📦 How do you handle data migration?</b></summary>
+<br/>
+
+**Zero-data-loss promise**: pre-migration audits → data cleansing → staged migration → post-migration reconciliation reports.
+</details>
+
+<details>
+<summary><b>🛠️ What's included post-launch?</b></summary>
+<br/>
+
+**30 days** of free support, full documentation, team training, and source code ownership transfer.
+</details>
+
+<details>
+<summary><b>💼 Do you work with non-profits?</b></summary>
+<br/>
+
+Yes — I've delivered complete donation management systems for foundations in Saudi Arabia, with special pricing for non-profit organizations.
+</details>
+
+<details>
+<summary><b>🚀 How do I get started?</b></summary>
+<br/>
+
+Email me at **[ibrahimelmasry631@gmail.com](mailto:ibrahimelmasry631@gmail.com)** — free consultation, no commitment.
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  CALL TO ACTION  ▓▓▓                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🤝 Ready to Transform Your Business?
+
+*Let's discuss how Odoo can streamline your operations, automate your workflows, and drive sustainable growth.*
+
+**🆓 Free Initial Consultation** &nbsp;•&nbsp; **✨ Custom Solutions** &nbsp;•&nbsp; **🔄 Ongoing Support**
 
 <br/>
 
-<table>
-<tr>
-<td align="center">
+<a href="mailto:ibrahimelmasry631@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/ibrahim-mahmoud-ibrahim"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+<a href="https://github.com/Elmasry-631"><img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge" alt="GitHub"/></a>
+<a href="https://wa.me/20XXXXXXXXXX"><img src="https://img.shields.io/badge/📱_WhatsApp-25D366?style=for-the-badge" alt="WhatsApp"/></a>
 
-<a href="mailto:ibrahimelmasry631@gmail.com">
-  <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d1406&logoSize=7%&size=1.6x" alt="Email Me"/>
-</a>
+<br/><br/>
 
-</td>
-<td align="center">
-
-<a href="https://www.linkedin.com/in/ibrahim-mahmoud-ibrahim" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=051b33&logoSize=7%&size=1.6x" alt="LinkedIn"/>
-</a>
-
-</td>
-<td align="center">
-
-<a href="https://github.com/Elmasry-631" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%90%99_GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0c10&logoSize=7%&size=1.6x" alt="GitHub"/>
-</a>
-
-</td>
-<td align="center">
-
-<a href="https://wa.me/201000000000" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%93%B1_WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=074416&logoSize=7%&size=1.6x" alt="WhatsApp"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Daily Quote Widget -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Inspiration Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote"/>
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 🎨 FOOTER - COSMIC OUTRO WITH ULTRA EFFECTS -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓  FOOTER  ▓▓▓                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,5:0a001a,10:0d0220,15:111133,20:161b33,25:1a1f40,30:212650,35:2d3a50,40:3d4a65,45:4a5a7a,50:58a6ff,55:4f8ef7,60:4677ee,65:3d60e5,70:8957e5,75:a371f7,80:c084fc,85:d8b4fe,90:f472b6,95:fb7185,100:ff7b72&height=200&section=footer" alt="Cosmic Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,15:c084fc,30:8957e5,50:58a6ff,70:1a1f40,85:111133,100:0d1117&height=180&section=footer" alt="Footer Wave"/>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+<sub>
+<b>Crafted with</b> ❤️ <b>and</b> ☕ <b>by Ibrahim Elmasry</b><br/>
+© 2026 · Built for excellence · Designed for impact
+</sub>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJ3cXB0bXo3NWgzaGVtNXNocHNrMGV0OWV0b3V3cGJiY3lneSZlcD12MV9pbnRlcm5hbF1naWQqfnB8MQ/t/qj7u86P2L94Uo/giphy.gif" width="35" alt="Heart"/>
-<br/>
-<br/>
-<sub><b>Crafted with ❤️ and ☕ by Ibrahim Elmasry</b></sub>
-<br/>
-<sub>Last Updated: 2025 | Built for excellence, designed for impact</sub>
-<br/>
-<br/>
+<br/><br/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Made_with-%E2%9D%A4%EF%B8%8F-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Made_with-❤️-EF4444?style=flat-square"/>
 <img src="https://img.shields.io/badge/Powered_by-Odoo-875A7B?style=flat-square&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Cairo_Egypt-blue?style=flat-square&logo=map-marker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Open_to_Work-success?style=flat-square&logo=check-circle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Experience-5%2B_Years-58A6FF?style=flat-square&logo=calendar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Projects-54%2B-F59E0B?style=flat-square&logo=project&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Based_in-Cairo_🇪🇬-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Serving-MENA-8957E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open_to_Work-3FB950?style=flat-square"/>
 
-<br/>
+<br/><br/>
+
 <sub><i>"Good code solves today's problems; great code anticipates tomorrow's."</i></sub>
-
-</td>
-</tr>
-</table>
 
 </div>
